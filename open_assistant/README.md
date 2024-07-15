@@ -20,8 +20,6 @@ This is the final file containing all filtered messages stored within message tr
 
 ## Open Assistant Dataset Details
 
-### Project and License
-
 The Open Assistant Conversations dataset aims to democratize research on large-scale alignment of large language models (LLMs) by providing a human-generated, human-annotated assistant-style conversation corpus. This project is supported by a worldwide crowd-sourcing effort involving over 13,500 volunteers.
 
 ### License

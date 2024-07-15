@@ -23,7 +23,7 @@ This is the final file containing all filtered messages stored within message tr
 The Open Assistant Conversations dataset aims to democratize research on large-scale alignment of large language models (LLMs) by providing a human-generated, human-annotated assistant-style conversation corpus. This project is supported by a worldwide crowd-sourcing effort involving over 13,500 volunteers.
 
 ### License
-The Open Assistant dataset is open-sourced under an Apache 2.0 licence.
+The [Open Assistant dataset](https://huggingface.co/datasets/OpenAssistant/oasst2) is freely available under an open-source Apache 2.0 licence.
 
 ### Reference Paper
 The Open Assistant Conversations dataset is detailed in the following paper:

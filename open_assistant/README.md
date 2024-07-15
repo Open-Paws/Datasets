@@ -7,7 +7,7 @@ The goal is to create a refined dataset that is relevant to veganism and animal 
 ## Files and Scripts
 
 ### `oasst2_criteria_ranking.ipynb`
-This Google Colab files assigns a CRITERIA score to each message in the dataset. The CRITERIA score helps in evaluating the content's relevance and quality.
+This Google Colab file assigns a CRITERIA score to each message in the dataset. The CRITERIA score helps in evaluating the content's relevance and quality.
 
 ### `merge_jsonl.py`
 This script is used to merge files that have been augmented with a CRITERIA score into a single dataset.

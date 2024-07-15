@@ -4,7 +4,7 @@ This folder contains manually selected books on Project Gutenberg that are relev
 
 ## Project and License
 
-Project Gutenberg is a valuable resource for public domain books. Most of the eBooks on Project Gutenberg are in the public domain in the United States, meaning they can be used freely, including for commercial purposes. For more information, please refer to the [Project Gutenberg Terms of Use]([https://www.gutenberg.org/wiki/Gutenberg:Terms_of_Use](https://www.gutenberg.org/policy/permission.html)).
+Project Gutenberg is a valuable resource for public domain books. Most of the eBooks on Project Gutenberg are in the public domain in the United States, meaning they can be used freely, including for commercial purposes. For more information, please refer to the [Project Gutenberg Terms of Use](https://www.gutenberg.org/policy/permission.html).
 
 ### License
 All data in this folder is sourced from Project Gutenberg and is in the public domain. This means no permission is needed for its use, and it can be freely redistributed and modified.

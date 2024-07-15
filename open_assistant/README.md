@@ -23,7 +23,7 @@ This is the final file containing all filtered messages stored within message tr
 The Open Assistant Conversations dataset aims to democratize research on large-scale alignment of large language models (LLMs) by providing a human-generated, human-annotated assistant-style conversation corpus. This project is supported by a worldwide crowd-sourcing effort involving over 13,500 volunteers.
 
 ### License
-All data in this folder is open source under permissive licenses such as Apache 2.0 or MIT. Any data added by contributors must also include a permissive license. In cases where data was scraped or existing datasets were used, proof of the permissive license must be included. For human-generated data, proof of permission must be included.
+The Open Assistant dataset is open-sourced under an Apache 2.0 licence.
 
 ### Reference Paper
 The Open Assistant Conversations dataset is detailed in the following paper:

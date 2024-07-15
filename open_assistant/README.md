@@ -1,6 +1,6 @@
 # Open Assistant Dataset Filtering
 
-This folder contains scripts for filtering the Open Assistant dataset based on the CRITERIA score and the final file contained messages filtered for relevance to veganism and/or animal rights. 
+This folder contains scripts for filtering the Open Assistant dataset based on the CRITERIA score and the final file containing messages filtered for relevance to veganism and/or animal rights. 
 
 The goal is to create a refined dataset that is relevant to veganism and animal rights while maintaining the structure and quality necessary for AI training.
 

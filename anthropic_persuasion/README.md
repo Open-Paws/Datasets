@@ -1,6 +1,6 @@
 # Anthropic Persuasion Dataset
 
-The Anthropic Persuasion Dataset contains claims and corresponding human-written and model-generated arguments, along with persuasiveness scores. This dataset was created for research on measuring the persuasiveness of language models, as described in this blog post: [Measuring the Persuasiveness of Language Models](https://www.anthropic.com/news/measuring-model-persuasiveness).
+The [Anthropic Persuasion Dataset](https://huggingface.co/datasets/Anthropic/persuasion) contains claims and corresponding human-written and model-generated arguments, along with persuasiveness scores. This dataset was created for research on measuring the persuasiveness of language models, as described in this blog post: [Measuring the Persuasiveness of Language Models](https://www.anthropic.com/news/measuring-model-persuasiveness).
 
 ## Dataset Summary
 

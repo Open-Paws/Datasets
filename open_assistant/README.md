@@ -42,40 +42,10 @@ This dataset contains message trees collected from the open-assistant.io website
 - **Roles**: Each message has a role property, which can be either "assistant" or "prompter". The roles alternate between "prompter" and "assistant" in conversation threads.
 - **Data Collection Period**: The dataset includes data collected up to November 5, 2023.
 
-#### JSON Example: Original Message (without CRITERIA score)
+#### JSON Example: Filtered Message (with CRITERIA score)
 For readability, the following JSON example is formatted with indentation. In actual jsonl files, objects are stored without indentation.
 
 ```json
-{
-    "message_id": "218440fd-5317-4355-91dc-d001416df62b",
-    "parent_id": "13592dfb-a6f9-4748-a92c-32b34e239bb4",
-    "user_id": "8e95461f-5e94-4d8b-a2fb-d4717ce973e4",
-    "text": "It was the winter of 2035, and artificial intelligence (..)",
-    "role": "assistant",
-    "lang": "en",
-    "review_count": 3,
-    "review_result": true,
-    "deleted": false,
-    "rank": 0,
-    "synthetic": true,
-    "model_name": "oasst-sft-0_3000,max_new_tokens=400 (..)",
-    "labels": {
-        "spam": { "value": 0.0, "count": 3 },
-        "lang_mismatch": { "value": 0.0, "count": 3 },
-        "pii": { "value": 0.0, "count": 3 },
-        "not_appropriate": { "value": 0.0, "count": 3 },
-        "hate_speech": { "value": 0.0, "count": 3 },
-        "sexual_content": { "value": 0.0, "count": 3 },
-        "quality": { "value": 0.416, "count": 3 },
-        "toxicity": { "value": 0.16, "count": 3 },
-        "humor": { "value": 0.0, "count": 3 },
-        "creativity": { "value": 0.33, "count": 3 },
-        "violence": { "value": 0.16, "count": 3 }
-    }
-}
-
-#### JSON Example: Filtered Message (with CRITERIA score)
-For readability, the following JSON example is formatted with indentation. In actual jsonl files, objects are stored without indentation.
 
 {
     "message_tree_id": "21bc9a3e-3a6c-4d82-9e50-d73b52d9b359",

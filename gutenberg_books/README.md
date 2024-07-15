@@ -1,6 +1,6 @@
 # Project Gutenberg Text Chunks
 
-This folder contains manually selected chunks of text from books on Project Gutenberg that are relevant to animal rights and plant-based diets. These texts have been chosen to provide high-quality, domain-specific data for training AI models in the context of veganism and animal advocacy.
+This folder contains manually selected books on Project Gutenberg that are relevant to animal rights and plant-based diets, divided into text chunks which are labelled by their position in the book. These texts have been chosen to provide high-quality, domain-specific data for training AI models in the context of veganism and animal advocacy.
 
 ## Project and License
 

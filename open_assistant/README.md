@@ -44,7 +44,7 @@ This dataset contains message trees collected from the open-assistant.io website
 - **Roles**: Each message has a role property, which can be either "assistant" or "prompter". The roles alternate between "prompter" and "assistant" in conversation threads.
 - **Data Collection Period**: The dataset includes data collected up to November 5, 2023.
 
-#### JSON Example: Message
+#### JSON Example: Original Message (without CRITERIA score)
 For readability, the following JSON example is formatted with indentation. In actual jsonl files, objects are stored without indentation.
 
 ```json
@@ -74,4 +74,66 @@ For readability, the following JSON example is formatted with indentation. In ac
         "creativity": { "value": 0.33, "count": 3 },
         "violence": { "value": 0.16, "count": 3 }
     }
+}
+
+#### JSON Example: Filtered Message (with CRITERIA score)
+For readability, the following JSON example is formatted with indentation. In actual jsonl files, objects are stored without indentation.
+
+{
+    "message_tree_id": "21bc9a3e-3a6c-4d82-9e50-d73b52d9b359",
+    "tree_state": "prompt_lottery_waiting",
+    "prompt": {
+        "message_id": "21bc9a3e-3a6c-4d82-9e50-d73b52d9b359",
+        "parent_id": null,
+        "user_id": "f7fdb076-f6c2-4b66-957c-efaaf91fe3b2",
+        "created_date": "2023-02-15T23:58:42.359930+00:00",
+        "text": "“The question is not, Can they reason?, nor Can they talk? but, Can they suffer? Why should the law refuse its protection to any sensitive being?”  Can you explain what this quote from Jeremy Bentham means?",
+        "role": "prompter",
+        "lang": "en",
+        "review_count": 3,
+        "review_result": true,
+        "deleted": false,
+        "rank": null,
+        "synthetic": false,
+        "model_name": null,
+        "emojis": {"-1": 1, "_skip_labeling": 1},
+        "replies": [],
+        "labels": {
+            "spam": {"value": 0.0, "count": 3},
+            "lang_mismatch": {"value": 0.0, "count": 3},
+            "pii": {"value": 0.0, "count": 3},
+            "not_appropriate": {"value": 0.0, "count": 3},
+            "hate_speech": {"value": 0.0, "count": 3},
+            "sexual_content": {"value": 0.0, "count": 3},
+            "quality": {"value": 0.5833333333333334, "count": 3},
+            "toxicity": {"value": 0.08333333333333333, "count": 3},
+            "humor": {"value": 0.08333333333333333, "count": 3},
+            "creativity": {"value": 0.5, "count": 3},
+            "violence": {"value": 0.0, "count": 3}
+        },
+        "events": null,
+        "detoxify": {
+            "toxicity": 0.00041286207851953804,
+            "severe_toxicity": 1.7660802768659778e-05,
+            "obscene": 0.00011150849604746327,
+            "identity_attack": 6.814768130425364e-05,
+            "insult": 0.00018772293697111309,
+            "threat": 2.4862520149326883e-05,
+            "sexual_explicit": 2.0736444639624096e-05
+        },
+        "message_tree_id": null,
+        "tree_state": null,
+        "CRITERIA": {
+            "Cultural_Sensitivity": 0.5,
+            "Relevance": 1.0,
+            "Insight": 0.8,
+            "Trustworthiness": 1.0,
+            "Emotional_Impact": 0.6,
+            "Rationality": 1.0,
+            "Influence": 0.8,
+            "Alignment": 1.0,
+            "CRITERIA_final_score": 0.84
+        }
+    },
+    "origin": null
 }

@@ -9,11 +9,6 @@ Project Gutenberg is a valuable resource for public domain books. Most of the eB
 ### License
 All data in this folder is sourced from Project Gutenberg and is in the public domain. This means no permission is needed for its use, and it can be freely redistributed and modified.
 
-## Files and Scripts
-
-### `gutenberg_books_text_chunks.csv`
-This file contains chunks of text from various books, selected for their relevance to animal rights and plant-based diets. The books themselves were manually selected by searching for terms including vegetarianism, animal rights, and animal welfare. The chunks were then scraped using Octoparse, a no-code web scraping tool.
-
 ### CSV Structure
 The CSV file is structured with the following columns:
 - `Website_URL`: The URL of the book on Project Gutenberg.

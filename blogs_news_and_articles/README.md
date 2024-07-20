@@ -4,7 +4,7 @@ This folder contains a curated collection of blogs, news  and other articles rel
 
 ## Project and License
 
-The articles included in this collection have been sourced from various online publications and blogs, specifically from animal advocacy organizations. All authors have opted in and signed data-sharing agreements, agreeing for us to use this content in our database. This ensures that the data is ethically sourced and can be used freely within AI & ML applications.
+The articles included in this collection have been sourced from various online publications and blogs, specifically from animal advocacy organizations. All website owners have opted in and signed data-sharing agreements, agreeing for us to use this content in our database. This ensures that the data is ethically sourced and can be used freely within AI & ML applications.
 
 ### CSV Structure
 

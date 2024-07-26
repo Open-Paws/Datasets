@@ -42,6 +42,12 @@ If you wish to contribute additional questions or languages to this seed data, p
 2. **Specify Languages**: Ensure the corresponding languages are accurately represented in the `Languages` column.
 3. **Submit**: Update the `Multilingual Vegan Questions.csv` file and submit a pull request or share the updated file with the project maintainers.
 
+## Language Selection
+
+There are more than [7,000 officially recognised living languages]([## License](https://www.ethnologue.com/)) and unfortunately due to resource constraints, we don't have the capacity or knowledge required to cover all of them. We therefore selected the languages that we believe we are most likely to find relevant data in and/or find volunteers to help us collect and rank data in.
+
+However, we welcome all languages with open arms and would love to further expand the range of languages we are able to cover. If you speak a language that is not already listed, please [contact us through the submission form on our website](https://www.openpaws.ai/get-involved) with more details so we can work together to ensure your language is added to the project.
+
 ## License
 
 This data is provided under an open license, allowing for free use and modification. By contributing, you agree to share your additions under the same terms.

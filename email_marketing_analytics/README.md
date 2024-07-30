@@ -1,10 +1,10 @@
 # Email Marketing Analytics Dataset
 
-This folder contains data from email marketing campaigns conducted by various animal advocacy organizations. The dataset has been compiled from data shared by these organizations under data sharing agreements that permit inclusion in this database.
+This folder contains data from email marketing campaigns conducted by various animal advocacy organizations.
 
 The goal is to create a comprehensive dataset that provides insights into the effectiveness of email marketing strategies for promoting animal rights and veganism.
 
-The data includes various performance metrics for email campaigns, such as open rates, click-through rates, and conversion rates.
+Each files includes both the content of the emails and various performance metrics for email campaigns, such as open rates, click-through rates, and conversion rates.
 
 ### Data Sharing and Usage Agreement
 

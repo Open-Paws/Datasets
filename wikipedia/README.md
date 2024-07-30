@@ -22,13 +22,9 @@ This is the final file containing filtered Wikipedia chunks stored with their CR
 
 The Wikipedia dataset is derived from the [Cohere Wikipedia dataset](https://huggingface.co/datasets/Cohere/wikipedia-22-12) and includes pre-processed chunks ranked by the CRITERIA score for relevance to veganism. This dataset aims to provide a focused collection of Wikipedia content that is pertinent to veganism and animal rights.
 
-Most of Wikipedia's text and many of its images are co-licensed under the Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA) and the GNU Free Documentation License (GFDL) (unversioned, with no invariant sections, front-cover texts, or back-cover texts). Some text has been imported only under CC BY-SA and CC BY-SA-compatible license and cannot be reused under GFDL; such text will be identified on the page footer, in the page history, or on the discussion page of the article that utilizes the text.
+Most of Wikipedia's text and many of its images are co-licensed under the Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA) and the GNU Free Documentation License (GFDL) (unversioned, with no invariant sections, front-cover texts, or back-cover texts).
 
-The licenses Wikipedia uses grant free access to our content in the same sense that free software is licensed freely. Wikipedia content can be copied, modified, and redistributed if and only if the copied version is made available on the same terms to others and acknowledgment of the authors of the Wikipedia article used is included (a link back to the article is generally thought to satisfy the attribution requirement; see below for more details). Copied Wikipedia content will therefore remain free under an appropriate license and can continue to be used by anyone subject to certain restrictions, most of which aim to ensure that freedom. This principle is known as copyleft in contrast to typical copyright licenses.
-
-To this end,
-
-Permission is granted to copy, distribute and/or modify Wikipedia's text under the terms of the Creative Commons Attribution-ShareAlike 4.0 International License and, unless otherwise noted, the GNU Free Documentation License, unversioned, with no invariant sections, front-cover texts, or back-cover texts.
+Therefore, permission is granted to copy, distribute and/or modify Wikipedia's text under the terms of the Creative Commons Attribution-ShareAlike 4.0 International License and, unless otherwise noted, the GNU Free Documentation License, unversioned, with no invariant sections, front-cover texts, or back-cover texts.
 
 ### JSON Example: Filtered Chunk (with CRITERIA score)
 

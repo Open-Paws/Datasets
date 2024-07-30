@@ -20,7 +20,7 @@ This is the final file containing filtered Wikipedia chunks stored with their CR
 
 ## Wikipedia Dataset Details
 
-The Wikipedia dataset is derived from the [Cohere Wikipedia dataset](https://huggingface.co/datasets/Cohere/wikipedia-22-12) and includes pre-processed chunks ranked by the CRITERIA score for relevance to veganism. This dataset aims to provide a focused collection of Wikipedia content that is pertinent to veganism and animal rights.
+The Wikipedia dataset is derived from the [Cohere Wikipedia dataset](https://huggingface.co/datasets/Cohere/wikipedia-22-12) and includes pre-processed chunks ranked by the CRITERIA score for relevance to veganism.
 
 Most of Wikipedia's text and many of its images are co-licensed under the Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA) and the GNU Free Documentation License (GFDL) (unversioned, with no invariant sections, front-cover texts, or back-cover texts).
 

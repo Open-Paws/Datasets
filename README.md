@@ -58,7 +58,7 @@ Note that the CRITERIA score is applied when filtering existing datasets only an
 
 For new datasets curated from sources such as animal advocacy organizations or manually scraped publicly available vegan-specific data, the CRITERIA score might not be included, as the relevance to veganism and/or animal rights has already been confirmed manually.
 
-It's also important to note that the CRITERIA score is currently being generated with simple prompting to an LLM and therefore is not always entirely acccurate. It works well enough to perform basic filtering, but it should always be taken with a grain of salt beyond that. As we collect more human fedback data from animal advocates, we will tune more accurate models to generate these scores.
+It's also important to note that **the CRITERIA score is currently being generated with simple prompting to an LLM and therefore is not always entirely acccurate.** It works well enough to perform basic filtering, but it should always be taken with a grain of salt beyond that. As we collect more human fedback data from animal advocates, we will tune more accurate models to generate these scores.
 
 ## License
 

@@ -14,7 +14,11 @@ This Google Colab notebook contains code for processing and analyzing data from 
 - **Export**: Save the processed data into a JSONL file.
 
 ### 2. `final_combined_tldr_and_s2orc.jsonl`
-This JSONL (JSON Lines) file contains the processed data, which is a combination of TLDR summaries and S2ORC (Semantic Scholar Open Research Corpus) data. Each line in the file represents a JSON object with fields capturing various aspects of research papers from the Semantic Scholar corpus. Please note that this file is a sample, not the entirety of the filtered dataset. We will release the full dataset filtered and ranked by relevance to veganism in the near future.
+This JSONL (JSON Lines) file contains the processed data, which is a combination of TLDR summaries and S2ORC (Semantic Scholar Open Research Corpus) data. Each line in the file represents a JSON object with fields capturing various aspects of research papers from the Semantic Scholar corpus. 
+
+Please note that this file is a sample, not the entirety of the filtered dataset. We will release the full dataset filtered and ranked by relevance to veganism in the near future.
+
+Because this file is too large to upload directly to GitHub, please [download it here via Google Drive.](https://drive.google.com/file/d/1nLhRrVn0FeB1gcPPAXfHNlF8naoW_fo_/view?usp=sharing)
 
 ### JSON Object Example
 ```json

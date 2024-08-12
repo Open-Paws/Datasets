@@ -91,7 +91,9 @@ The Semantic Scholar dataset is licences under Open Data Commons Attribution Lic
 In simple terms, "You are free:
 
 To share: To copy, distribute and use the database.
+
 To create: To produce works from the database.
+
 To adapt: To modify, transform and build upon the database.
 
 As long as you:

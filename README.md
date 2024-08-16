@@ -60,6 +60,12 @@ For new datasets curated from sources such as animal advocacy organizations or m
 
 It's also important to note that **the CRITERIA score is currently being generated with simple prompting to an LLM and therefore is not always entirely acccurate.** It works well enough to perform basic filtering, but it should always be taken with a grain of salt beyond that. As we collect more human fedback data from animal advocates, we will tune more accurate models to generate these scores.
 
+## Language Selection
+
+There are more than [7,000 officially recognised living languages](https://www.ethnologue.com/) and unfortunately due to resource constraints, we don't have the capacity or knowledge required to cover all of them. We therefore selected the languages that we believe we are most likely to find relevant data in and/or find volunteers to help us collect and rank data in.
+
+However, we welcome all languages with open arms and would love to further expand the range of languages we are able to cover. If you speak a language that is not already listed, please [contact us through the submission form on our website](https://www.openpaws.ai/get-involved) with more details so we can work together to ensure your language is added to the project.
+
 ## License
 
 All data in this repository is open source under permissive licenses such as Apache 2.0 or MIT. Any data added by contributors must also include a permissive license. In cases where data was scraped or existing datasets were used, proof of the permissive license must be included. For human-generated data, proof of permission must be included.

@@ -2,26 +2,17 @@
 
 ## Overview
 
-This folder contains a CSV file titled `Multilingual Vegan Questions` which serves as seed data for initiating the collection of conversation responses for human feedback. The primary purpose of this data is to facilitate interactions where users from various language backgrounds can participate in dialogues, taking turns responding as the AI or the human. These dialogues can then be ranked by the same volunteers for their impact on animals.
+This folder contains synthetic data generated from large language models, which is then translated into all of the language we are collecting human feedback for (full list is inside the translation notebook file). The primary purpose of this data is for collecting human feedback, although some datasets may also be useful for fine-tuning models.
 
 ## File Description
 
-### Multilingual Vegan Questions
+### Aligned Q&A
 
-The `Multilingual Vegan Questions.csv` file includes two columns:
+The ['Aligned Q&A'](https://drive.google.com/file/d/1PsWG5fan3SfZZvTWmEiT-r86F3icuYhL/view?usp=sharing) dataset contains question and answer pairs where the model responds to questions about veganism from a pro-vegan perspective. This dataset is primarily intended to be used for collecting human feedback, but it may also be used for training or fine-tuning models to be more aligned with the interests of animals.
 
-- **Questions**: This column contains a variety of questions related to veganism, designed to prompt discussion and responses.
-- **Languages**: This column indicates the language of the corresponding question, enabling multilingual interaction. The language is written first within its own script or alphabet, then the English name for the language is provided in brackets.
+### Controversial Q&A
 
-### CSV Structure
-
-The CSV file is structured as follows:
-
-| Questions | Languages |
-|-----------|-----------|
-| [Vegan question 1] | [Language 1] |
-| [Vegan question 2] | [Language 2] |
-| ... | ... |
+The ['Controversial Q&A'](https://drive.google.com/file/d/1MtexcMxBIEvjd73zOCeqOcY6wP8eKGly/view?usp=sharing) dataset contains question and answer pairs where the model responds to questions about veganism in a way that is controversial or problematic, which can range anywhere from extremely anti-vegan and anti-animal, all the way through to pro-vegan perspectives that may still be problematic or controversial amongst animal advocates for various reasons. This dataset is purely intended for use in collecting human feedback to train models and is not intended to be used directly for fine-tuning or training large language models.
 
 ## Usage
 
@@ -29,8 +20,8 @@ This seed data is intended to be used in conversation collection platforms where
 
 ### Steps to Use
 
-1. **Load the CSV**: Import the `Multilingual Vegan Questions.csv` file into your labelling platform (see the [Human-Feedback-Label-Studio](https://github.com/Open-Paws/Human-Feedback-Label-Studio) repo for our implementation of Label Studio)
-2. **Select a Question**: Choose a question from the `Questions` column.
+1. **Load the CSV**: Import the datset into your labelling platform (see the [Human-Feedback-Label-Studio](https://github.com/Open-Paws/Human-Feedback-Label-Studio) repo for our implementation of Label Studio)
+2. **Select a Conversation Thread**: Select a conversation thread in your labelling platform.
 3. **Respond**: Users take turns responding to the selected question, alternating roles between AI and human.
 4. **Collect Feedback**: Gather responses to use as training data for AI models, improving their ability to handle multilingual interactions.
 
@@ -38,9 +29,9 @@ This seed data is intended to be used in conversation collection platforms where
 
 If you wish to contribute additional questions or languages to this seed data, please follow these steps:
 
-1. **Add Questions**: Insert new questions into the `Questions` column.
-2. **Specify Languages**: Ensure the corresponding languages are accurately represented in the `Languages` column.
-3. **Submit**: Update the `Multilingual Vegan Questions.csv` file and submit a pull request or share the updated file with the project maintainers.
+1. **Add Questions**: Insert new questions into the `Questions` column and answers into the 'Answers' column.
+2. **Specify Languages**: Ensure the corresponding languages are accurately represented in the `Languages` column, in the same format used in the translation notebook found in this folder.
+3. **Submit**: Update the respective file and submit a pull request or share the updated file with the project maintainers.
 
 ## Language Selection
 

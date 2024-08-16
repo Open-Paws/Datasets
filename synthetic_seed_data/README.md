@@ -8,11 +8,11 @@ This folder contains synthetic data generated from large language models, which 
 
 ### Aligned Q&A
 
-The ['Aligned Q&A'](https://drive.google.com/file/d/1PsWG5fan3SfZZvTWmEiT-r86F3icuYhL/view?usp=sharing) dataset contains question and answer pairs where the model responds to questions about veganism from a pro-vegan perspective. This dataset is primarily intended to be used for collecting human feedback, but it may also be used for training or fine-tuning models to be more aligned with the interests of animals.
+The [`Aligned Q&A`](https://drive.google.com/file/d/1PsWG5fan3SfZZvTWmEiT-r86F3icuYhL/view?usp=sharing) dataset contains question and answer pairs where the model responds to questions about veganism from a pro-vegan perspective. This dataset is primarily intended to be used for collecting human feedback, but it may also be used for training or fine-tuning models to be more aligned with the interests of animals.
 
 ### Controversial Q&A
 
-The ['Controversial Q&A'](https://drive.google.com/file/d/1MtexcMxBIEvjd73zOCeqOcY6wP8eKGly/view?usp=sharing) dataset contains question and answer pairs where the model responds to questions about veganism in a way that is controversial or problematic, which can range anywhere from extremely anti-vegan and anti-animal, all the way through to pro-vegan perspectives that may still be problematic or controversial amongst animal advocates for various reasons. This dataset is purely intended for use in collecting human feedback to train models and is not intended to be used directly for fine-tuning or training large language models.
+The [`Controversial Q&A`](https://drive.google.com/file/d/1MtexcMxBIEvjd73zOCeqOcY6wP8eKGly/view?usp=sharing) dataset contains question and answer pairs where the model responds to questions about veganism in a way that is controversial or problematic, which can range anywhere from extremely anti-vegan and anti-animal, all the way through to pro-vegan perspectives that may still be problematic or controversial amongst animal advocates for various reasons. This dataset is purely intended for use in collecting human feedback to train models and is not intended to be used directly for fine-tuning or training large language models.
 
 ## Usage
 
@@ -29,7 +29,7 @@ This seed data is intended to be used in conversation collection platforms where
 
 If you wish to contribute additional questions or languages to this seed data, please follow these steps:
 
-1. **Add Questions**: Insert new questions into the `Questions` column and answers into the 'Answers' column.
+1. **Add Questions**: Insert new questions into the `Questions` column and answers into the `Answers` column.
 2. **Specify Languages**: Ensure the corresponding languages are accurately represented in the `Languages` column, in the same format used in the translation notebook found in this folder.
 3. **Submit**: Update the respective file and submit a pull request or share the updated file with the project maintainers.
 

@@ -177,11 +177,11 @@
 
       Specifically:
 
-        a. **Restricted Entities**: Businesses and organizations whose primary activities involve the production, marketing, or sale of animal-derived products—such as meat, dairy,            eggs, leather, or fur—are prohibited from using the Work, data, or models trained on that data for these specific purposes.
-        b. **Permitted Use by AI Companies**: AI companies, research institutions, and other developers are permitted to use the Work and train models on the data without restriction           regarding their end-users. This clause does not impose any responsibility on AI companies or developers regarding how end-users may apply the models.
-        c. **Direct Use Restriction**: The restriction is specifically aimed at preventing non-vegan businesses from directly using the Work or derived models to promote animal                 exploitation. It does not apply to the general development and distribution of AI models.
+        a. Restricted Entities: Businesses and organizations whose primary activities involve the production, marketing, or sale of animal-derived products—such as meat, dairy,                eggs, leather, or fur—are prohibited from using the Work, data, or models trained on that data for these specific purposes.
+        b. Permitted Use by AI Companies: AI companies, research institutions, and other developers are permitted to use the Work and train models on the data without restriction               regarding their end-users. This clause does not impose any responsibility on AI companies or developers regarding how end-users may apply the models.
+        c. Direct Use Restriction: The restriction is specifically aimed at preventing non-vegan businesses from directly using the Work or derived models to promote animal                     exploitation. It does not apply to the general development and distribution of AI models.
 
-      **Clarification:**
+      Clarification:
 
         This clause is intended to prevent the direct use of the Work or derived models by non-vegan industries for promoting animal exploitation. AI companies, developers, and other          entities can freely use and distribute models trained on the Work without concern for the specific applications by their end-users.
 

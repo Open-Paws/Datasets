@@ -173,30 +173,38 @@
       incurred by, or claims asserted against, such Contributor by reason
       of your accepting any such warranty or additional liability.
 
-  10. The Work, any data derived from the Work, and any models trained on that data may not be used directly by businesses or organizations primarily involved in the exploitation of         animals to promote, market, or endorse products or practices that contribute to animal exploitation. 
+   10. The Work, any data derived from the Work, and any models trained
+       on that data may not be used directly by businesses or organizations
+       primarily involved in the exploitation of animals to promote, market,
+       or endorse products or practices that contribute to animal exploitation.
 
-      Specifically:
+       Specifically:
 
-        a. Restricted Entities: Businesses and organizations whose primary activities involve the production, marketing, or sale of animal-derived products—such as meat, dairy,                eggs, leather, or fur—are prohibited from using the Work, data, or models trained on that data for these specific purposes.
-        b. Permitted Use by AI Companies: AI companies, research institutions, and other developers are permitted to use the Work and train models on the data without restriction               regarding their end-users. This clause does not impose any responsibility on AI companies or developers regarding how end-users may apply the models.
-        c. Direct Use Restriction: The restriction is specifically aimed at preventing non-vegan businesses from directly using the Work or derived models to promote animal                     exploitation. It does not apply to the general development and distribution of AI models.
+         (a) Restricted Entities: Businesses and organizations whose primary
+             activities involve the production, marketing, or sale of
+             animal-derived products—such as meat, dairy, eggs, leather,
+             or fur—are prohibited from using the Work, data, or models
+             trained on that data for these specific purposes.
 
-      Clarification:
+         (b) Permitted Use by AI Companies: AI companies, research institutions,
+             and other developers are permitted to use the Work and train models
+             on the data without restriction regarding their end-users. This clause
+             does not impose any responsibility on AI companies or developers
+             regarding how end-users may apply the models.
 
-        This clause is intended to prevent the direct use of the Work or derived models by non-vegan industries for promoting animal exploitation. AI companies, developers, and other          entities can freely use and distribute models trained on the Work without concern for the specific applications by their end-users.
+         (c) Direct Use Restriction: The restriction is specifically aimed at
+             preventing non-vegan businesses from directly using the Work or
+             derived models to promote animal exploitation. It does not apply
+             to the general development and distribution of AI models.
+
+       Clarification:
+
+         This clause is intended to prevent the direct use of the Work or
+         derived models by non-vegan industries for promoting animal exploitation.
+         AI companies, developers, and other entities can freely use and distribute
+         models trained on the Work without concern for the specific applications
+         by their end-users.
 
    END OF TERMS AND CONDITIONS
 
    Copyright 2024 Open Paws MTU
-
-   Licensed under the Apache License, Version 2.0 (the "License");
-   you may not use this file except in compliance with the License.
-   You may obtain a copy of the License at
-
-       http://www.apache.org/licenses/LICENSE-2.0
-
-   Unless required by applicable law or agreed to in writing, software
-   distributed under the License is distributed on an "AS IS" BASIS,
-   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-   See the License for the specific language governing permissions and
-   limitations under the License.

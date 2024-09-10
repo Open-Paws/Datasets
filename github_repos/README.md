@@ -1,4 +1,4 @@
-# Dataset: Text Chunks from Various Veganism and Animal Rights Repositories
+# Text Chunks from Vegan-Focused GitHub Projects
 
 ## Overview
 

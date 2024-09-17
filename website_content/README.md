@@ -25,7 +25,7 @@ This structure ensures that all types of content are categorized and labeled eff
 
 ## Website Scraping Script
 
-To facilitate the creation of similar datasets from any website, we provide a script titled `website_scraping.ipynb`. This Google Colab notebook allows users to scrape and process content from specified websites, organizing the data into the structured CSV format described above.
+To facilitate the creation of similar datasets from any website, we provide a script titled `website_content_scraping.ipynb` and another titled `url_content_scraping.ipynb`. These Google Colab notebooks allows users to scrape and process content from specified websites, organizing the data into the structured CSV format described above. The website content scraping script will first crawl all internal links for a given base URL and then scrape all of the URLs it finds, whereas the URL content scraping script scrapes from a given list of URLs. We recommend using the website content scraping script first, and then if there were any URLs that were unable to be scraped due to network issues or bot detection software, you can try those failed URLs again using the URL scraping script.
 
 ### Features of the Script
 

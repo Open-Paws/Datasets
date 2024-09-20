@@ -1,0 +1,1032 @@
+"url","content","type","position"
+"https://www.welfarefootprint.org/","<html lang=""en-US"" class=""no-js""><head>
+	<meta charset=""UTF-8"">
+	<meta name=""viewport"" content=""width=device-width"">
+	<link rel=""profile"" href=""https://gmpg.org/xfn/11"">
+	<title>Welfare Footprint Project – Quantifying animal pain</title>
+<meta name=""robots"" content=""max-image-preview:large"">
+<link rel=""dns-prefetch"" href=""//static.addtoany.com"">
+<link rel=""dns-prefetch"" href=""//fonts.googleapis.com"">
+<link rel=""alternate"" type=""application/rss+xml"" title=""Welfare Footprint Project » Feed"" href=""https://welfarefootprint.org/feed/"">
+<link rel=""alternate"" type=""application/rss+xml"" title=""Welfare Footprint Project » Comments Feed"" href=""https://welfarefootprint.org/comments/feed/"">
+<link rel=""alternate"" type=""text/calendar"" title=""Welfare Footprint Project » iCal Feed"" href=""https://welfarefootprint.org/events/?ical=1"">
+<script type=""text/javascript"">","HTML",1
+"https://www.welfarefootprint.org/","
+/* <![CDATA[ */
+window._wpemojiSettings = {""baseUrl"":""https:\\/\\/s.w.org\\/images\\/core\\/emoji\\/15.0.3\\/72x72\\/"",""ext"":"".png"",""svgUrl"":""https:\\/\\/s.w.org\\/images\\/core\\/emoji\\/15.0.3\\/svg\\/"",""svgExt"":"".svg"",""source"":{""concatemoji"":""https:\\/\\/welfarefootprint.org\\/wp-includes\\/js\\/wp-emoji-release.min.js?ver=6.6.2""}};
+/*! This file is auto-generated */
+!function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case""flag"":return n(e,""\\ud83c\\udff3\\ufe0f\\u200d\\u26a7\\ufe0f"",""\\ud83c\\udff3\\ufe0f\\u200b\\u26a7\\ufe0f"")?!1:!n(e,""\\ud83c\\uddfa\\ud83c\\uddf3"",""\\ud83c\\uddfa\\u200b\\ud83c\\uddf3"")&&!n(e,""\\ud83c\\udff4\\udb40\\udc67\\udb40\\udc62\\udb40\\udc65\\udb40\\udc6e\\udb40\\udc67\\udb40\\udc7f"",""\\ud83c\\udff4\\u200b\\udb40\\udc67\\u200b\\udb40\\udc62\\u200b\\udb40\\udc65\\u200b\\udb40\\udc6e\\u200b\\udb40\\udc67\\u200b\\udb40\\udc7f"");case""emoji"":return!n(e,""\\ud83d\\udc26\\u200d\\u2b1b"",""\\ud83d\\udc26\\u200b\\u2b1b"")}return!1}function f(e,t,n){var r=""undefined""!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement(""canvas""),a=r.getContext(""2d"",{willReadFrequently:!0}),o=(a.textBaseline=""top"",a.font=""600 32px Arial"",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement(""script"");t.src=e,t.defer=!0,i.head.appendChild(t)}""undefined""!=typeof Promise&&(o=""wpEmojiSettingsSupports"",s=[""flag"",""emoji""],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener(""DOMContentLoaded"",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if(""object""==typeof e&&""number""==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&""object""==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if(""undefined""!=typeof Worker&&""undefined""!=typeof OffscreenCanvas&&""undefined""!=typeof URL&&URL.createObjectURL&&""undefined""!=typeof Blob)try{var e=""postMessage(""+f.toString()+""(""+[JSON.stringify(s),u.toString(),p.toString()].join("","")+""));"",r=new Blob([e],{type:""text/javascript""}),a=new Worker(URL.createObjectURL(r),{name:""wpTestEmojiSupports""});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],""flag""!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+/* ]]>","HTML",2
+"https://www.welfarefootprint.org/"," */
+</script>
+<link rel=""stylesheet"" id=""sdm-styles-css"" href=""https://welfarefootprint.org/wp-content/plugins/simple-download-monitor/css/sdm_wp_styles.css?ver=6.6.2"" type=""text/css"" media=""all"">
+<style id=""wp-emoji-styles-inline-css"" type=""text/css"">
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<link rel=""stylesheet"" id=""wp-block-library-css"" href=""https://welfarefootprint.org/wp-includes/css/dist/block-library/style.min.css?ver=6.6.2"" type=""text/css"" media=""all"">
+<style id=""wp-block-library-theme-inline-css"" type=""text/css"">","HTML",3
+"https://www.welfarefootprint.org/","
+.wp-block-audio :where(figcaption){color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-audio :where(figcaption){color:#ffffffa6}.wp-block-audio{margin:0 0 1em}.wp-block-code{border:1px solid #ccc;border-radius:4px;font-family:Menlo,Consolas,monaco,monospace;padding:.8em 1em}.wp-block-embed :where(figcaption){color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-embed :where(figcaption){color:#ffffffa6}.wp-block-embed{margin:0 0 1em}.blocks-gallery-caption{color:#555;font-size:13px;text-align:center}.is-dark-theme .blocks-gallery-caption{color:#ffffffa6}:root :where(.wp-block-image figcaption){color:#555;font-size:13px;text-align:center}.is-dark-theme :root :where(.wp-block-image figcaption){color:#ffffffa6}.wp-block-image{margin:0 0 1em}.wp-block-pullquote{border-bottom:4px solid;border-top:4px solid;color:currentColor;margin-bottom:1.75em}.wp-block-pullquote cite,.wp-block-pullquote footer,.wp-block-pullquote__citation{color:currentColor;font-size:.8125em;font-style:normal;text-transform:uppercase}.wp-block-quote{border-left:.25em solid;margin:0 0 1.75em;padding-left:1em}.wp-block-quote cite,.wp-block-quote footer{color:currentColor;font-size:.8125em;font-style:normal;position:relative}.wp-block-quote.has-text-align-right{border-left:none;border-right:.25em solid;padding-left:0;padding-right:1em}.wp-block-quote.has-text-align-center{border:none;padding-left:0}.wp-block-quote.is-large,.wp-block-quote.is-style-large,.wp-block-quote.is-style-plain{border:none}.wp-block-search .wp-block-search__label{font-weight:700}.wp-block-search__button{border:1px solid #ccc;padding:.375em .625em}:where(.wp-block-group.has-background){padding:1.25em 2.375em}.wp-block-separator.has-css-opacity{opacity:.4}.wp-block-separator{border:none;border-bottom:2px solid;margin-left:auto;margin-right:auto}.wp-block-separator.has-alpha-channel-opacity{opacity:1}.wp-block-separator:not(.is-style-wide):not(.is-style-dots){width:100px}.wp-block-separator.has-background:not(.is-style-dots){border-bottom:none;height:1px}.wp-block-separator.has-background:not(.is-style-wide):not(.is-style-dots){height:2px}.wp-block-table{margin:0 0 1em}.wp-block-table td,.wp-block-table th{word-break:normal}.wp-block-table :where(figcaption){color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-table :where(figcaption){color:#ffffffa6}.wp-block-video :where(figcaption){color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-video :where(figcaption){color:#ffffffa6}.wp-block-video{margin:0 0 1em}:root :where(.wp-block-template-part.has-background){margin-bottom:0;margin-top:0;padding:1.25em 2.375em}
+</style>","HTML",4
+"https://www.welfarefootprint.org/","
+<link rel=""stylesheet"" id=""gutenberg-pdfjs-css"" href=""https://welfarefootprint.org/wp-content/plugins/pdfjs-viewer-shortcode/inc/../blocks/dist/style.css?ver=2.1.8"" type=""text/css"" media=""all"">
+<link rel=""stylesheet"" id=""helpie-faq-bundle-styles-css"" href=""https://welfarefootprint.org/wp-content/plugins/helpie-faq/assets/bundles/main.app.css?ver=1.13"" type=""text/css"" media=""all"">
+<style id=""classic-theme-styles-inline-css"" type=""text/css"">
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id=""global-styles-inline-css"" type=""text/css"">","HTML",5
+"https://www.welfarefootprint.org/","
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--color--orange: #f7931d;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex >","HTML",6
+"https://www.welfarefootprint.org/"," :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid >","HTML",7
+"https://www.welfarefootprint.org/"," :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+</style>","HTML",8
+"https://www.welfarefootprint.org/","
+<link rel=""stylesheet"" id=""contact-form-7-css"" href=""https://welfarefootprint.org/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.8.3"" type=""text/css"" media=""all"">
+<link rel=""stylesheet"" id=""pdfprnt_frontend-css"" href=""https://welfarefootprint.org/wp-content/plugins/pdf-print/css/frontend.css?ver=2.3.2"" type=""text/css"" media=""all"">
+<link rel=""stylesheet"" id=""toc-screen-css"" href=""https://welfarefootprint.org/wp-content/plugins/table-of-contents-plus/screen.min.css?ver=2309"" type=""text/css"" media=""all"">
+<link rel=""stylesheet"" id=""woocommerce-layout-css"" href=""https://welfarefootprint.org/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=8.3.0"" type=""text/css"" media=""all"">
+<link rel=""stylesheet"" id=""woocommerce-smallscreen-css"" href=""https://welfarefootprint.org/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=8.3.0"" type=""text/css"" media=""only screen and (max-width: 768px)"">
+<link rel=""stylesheet"" id=""woocommerce-general-css"" href=""https://welfarefootprint.org/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=8.3.0"" type=""text/css"" media=""all"">
+<style id=""woocommerce-inline-inline-css"" type=""text/css"">
+.woocommerce form .form-row .required { visibility: visible; }
+</style>
+<link rel=""stylesheet"" id=""mc4wp-form-themes-css"" href=""https://welfarefootprint.org/wp-content/plugins/mailchimp-for-wp/assets/css/form-themes.css?ver=4.9.9"" type=""text/css"" media=""all"">
+<link rel=""stylesheet"" id=""maisha-fonts-css"" href=""https://fonts.googleapis.com/css?family=Raleway%3A400i%2C100i%2C200i%2C300i%2C500i%2C600i%2C700i%2C800i%2C900i%2C400%2C100%2C200%2C300%2C500%2C600%2C700%2C800%2C900%7CPlayfair+Display%3A400%2C700%2C900%2C400i%2C700i%2C900i&amp;subset=latin%2Clatin-ext"" type=""text/css"" media=""all"">
+<link rel=""stylesheet"" id=""genericons-css"" href=""https://welfarefootprint.org/wp-content/themes/maishawp/genericons/genericons.css?ver=3.2"" type=""text/css"" media=""all"">","HTML",9
+"https://www.welfarefootprint.org/","
+<link rel=""stylesheet"" id=""maisha-style-css"" href=""https://welfarefootprint.org/wp-content/themes/maishawp/style.css?ver=6.6.2"" type=""text/css"" media=""all"">
+<link rel=""stylesheet"" id=""addtoany-css"" href=""https://welfarefootprint.org/wp-content/plugins/add-to-any/addtoany.min.css?ver=1.16"" type=""text/css"" media=""all"">
+<style id=""addtoany-inline-css"" type=""text/css"">
+@media screen and (max-width:980px){
+.a2a_floating_style.a2a_vertical_style{display:none;}
+}
+</style>
+<script>if (document.location.protocol != ""https:"") {document.location = document.URL.replace(/^http:/i, ""https:"");}</script><script type=""text/javascript"" id=""addtoany-core-js-before"">
+/* <![CDATA[ */
+window.a2a_config=window.a2a_config||{};a2a_config.callbacks=[];a2a_config.overlays=[];a2a_config.templates={};
+/* ]]> */
+</script>
+<script type=""text/javascript"" async="""" src=""https://static.addtoany.com/menu/page.js"" id=""addtoany-core-js""></script>
+<script type=""text/javascript"" src=""https://welfarefootprint.org/wp-includes/js/jquery/jquery.min.js?ver=3.7.1"" id=""jquery-core-js""></script>
+<script type=""text/javascript"" src=""https://welfarefootprint.org/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1"" id=""jquery-migrate-js""></script>
+<script type=""text/javascript"" async="""" src=""https://welfarefootprint.org/wp-content/plugins/add-to-any/addtoany.min.js?ver=1.1"" id=""addtoany-jquery-js""></script>
+<script type=""text/javascript"" id=""sdm-scripts-js-extra"">
+/* <![CDATA[ */
+var sdm_ajax_script = {""ajaxurl"":""https:\\/\\/welfarefootprint.org\\/wp-admin\\/admin-ajax.php""};
+/* ]]> */
+</script>
+<script type=""text/javascript"" src=""https://welfarefootprint.org/wp-content/plugins/simple-download-monitor/js/sdm_wp_scripts.js?ver=6.6.2"" id=""sdm-scripts-js""></script>
+<script type=""text/javascript"" src=""https://welfarefootprint.org/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.7.0-wc.8.3.0"" id=""jquery-blockui-js"" defer=""defer"" data-wp-strategy=""defer""></script>","HTML",10
+"https://www.welfarefootprint.org/","
+<script type=""text/javascript"" id=""wc-add-to-cart-js-extra"">
+/* <![CDATA[ */
+var wc_add_to_cart_params = {""ajax_url"":""\\/wp-admin\\/admin-ajax.php"",""wc_ajax_url"":""\\/?wc-ajax=%%endpoint%%&elementor_page_id=8264"",""i18n_view_cart"":""View cart"",""cart_url"":""https:\\/\\/welfarefootprint.org"",""is_cart"":"""",""cart_redirect_after_add"":""no""};
+/* ]]> */
+</script>
+<script type=""text/javascript"" src=""https://welfarefootprint.org/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=8.3.0"" id=""wc-add-to-cart-js"" defer=""defer"" data-wp-strategy=""defer""></script>
+<script type=""text/javascript"" src=""https://welfarefootprint.org/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4-wc.8.3.0"" id=""js-cookie-js"" defer=""defer"" data-wp-strategy=""defer""></script>
+<script type=""text/javascript"" id=""woocommerce-js-extra"">
+/* <![CDATA[ */
+var woocommerce_params = {""ajax_url"":""\\/wp-admin\\/admin-ajax.php"",""wc_ajax_url"":""\\/?wc-ajax=%%endpoint%%&elementor_page_id=8264""};
+/* ]]> */
+</script>
+<script type=""text/javascript"" src=""https://welfarefootprint.org/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=8.3.0"" id=""woocommerce-js"" defer=""defer"" data-wp-strategy=""defer""></script>
+<link rel=""https://api.w.org/"" href=""https://welfarefootprint.org/wp-json/""><link rel=""alternate"" title=""JSON"" type=""application/json"" href=""https://welfarefootprint.org/wp-json/wp/v2/pages/8264""><link rel=""EditURI"" type=""application/rsd+xml"" title=""RSD"" href=""https://welfarefootprint.org/xmlrpc.php?rsd"">
+<meta name=""generator"" content=""WordPress 6.6.2"">
+<meta name=""generator"" content=""WooCommerce 8.3.0"">
+<link rel=""canonical"" href=""https://welfarefootprint.org/"">
+<link rel=""shortlink"" href=""https://welfarefootprint.org/"">
+<link rel=""alternate"" title=""oEmbed (JSON)"" type=""application/json+oembed"" href=""https://welfarefootprint.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwelfarefootprint.org%2F"">","HTML",11
+"https://www.welfarefootprint.org/","
+<link rel=""alternate"" title=""oEmbed (XML)"" type=""text/xml+oembed"" href=""https://welfarefootprint.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwelfarefootprint.org%2F&amp;format=xml"">
+					<!-- AnarielDesign Google Font Picker -->
+					<link href=""https://fonts.googleapis.com/css?family=Raleway"" rel=""stylesheet"" type=""text/css"">
+					<style type=""text/css"">h1 { font-family: 'Raleway'!important;  }</style>
+
+									<!-- AnarielDesign Google Font Picker -->
+					
+					<style type=""text/css"">h2 { font-family: 'Raleway'!important;  }</style>
+
+									<!-- AnarielDesign Google Font Picker -->
+					
+					<style type=""text/css"">h3 { font-family: 'Raleway'!important;  }</style>
+
+									<!-- AnarielDesign Google Font Picker -->
+					
+					<style type=""text/css"">h4 { font-family: 'Raleway'!important;  }</style>
+
+									<!-- AnarielDesign Google Font Picker -->
+					
+					<style type=""text/css"">h5 { font-family: 'Raleway'!important;  }</style>
+
+									<!-- AnarielDesign Google Font Picker -->
+					
+					<style type=""text/css"">h6 { font-family: 'Raleway'!important;  }</style>
+
+				<meta name=""tec-api-version"" content=""v1""><meta name=""tec-api-origin"" content=""https://welfarefootprint.org""><link rel=""alternate"" href=""https://welfarefootprint.org/wp-json/tribe/events/v1/"">	<style type=""text/css"">","HTML",12
+"https://www.welfarefootprint.org/","
+		.aboutpage .cd-fixed-bg-one { padding: px 0;}
+
+		.page-template-default .aboutpage .cd-fixed-bg-one, .blog .aboutpage .cd-fixed-bg-one, .page-template-basic-page .aboutpage .cd-fixed-bg-one { padding: px 0;}
+		
+		.entry-content a, .news .entry-content a, .page #content .entry-content a, .page #content.intro .entry-content a {color: #1a344e;}
+		
+		.page #content .entry-content a, .page #content .entry-content a:hover {border-color: #1a344e;}
+
+		button,input[type=""button""], input[type=""reset""], input[type=""submit""], .widget_calendar tbody a, .page-template-projects-page .columns hr, .page-template-causes-page .columns hr, 
+		.page-template-stories-page .columns hr, .woocommerce .widget_price_filter .ui-slider .ui-slider-handle, .woocommerce .widget_price_filter .ui-slider .ui-slider-range,
+		div.wpforms-container-full .wpforms-form input[type=submit], div.wpforms-container-full .wpforms-form button[type=submit], div.wpforms-container-full .wpforms-form .wpforms-page-button { background-color:#1a344e; }
+
+		.social-navigation, .sidebar .widget .give-submit-button-wrap input[type=""submit""], .button, .tribe-events-loop .type-tribe_events.tribe-events-last, #tribe-events .tribe-events-button, 
+		#tribe-events .tribe-events-button:hover, #tribe_events_filters_wrapper input[type=submit], .tribe-events-button, .tribe-events-button.tribe-active:hover, .tribe-events-button.tribe-inactive, 
+		.tribe-events-button:hover, .tribe-events-calendar td.tribe-events-present div[id*=tribe-events-daynum-], .tribe-events-calendar td.tribe-events-present div[id*=tribe-events-daynum-]>","HTML",13
+"https://www.welfarefootprint.org/","a, 
+		#tribe-events-content .tribe-events-calendar td.tribe-events-present.mobile-active:hover, .tribe-events-calendar td.tribe-events-present.mobile-active, 
+		.tribe-events-calendar td.tribe-events-present.mobile-active div[id*=tribe-events-daynum-], .tribe-events-calendar td.tribe-events-present.mobile-active div[id*=tribe-events-daynum-] a, 
+		.widget.buddypress #bp-login-widget-form #bp-login-widget-submit, .woocommerce span.onsale, .search-toggle, input#give-purchase-button, [id*=give-form].give-display-modal .give-btn, 
+		[id*=give-form].give-display-reveal .give-btn, .navigation-main li.color a, .main-small-navigation li.color a, #sidebar input#bbp_search_submit { background:#1a344e; }
+		
+		.news .entry-content a.more-link:focus { color:#1a344e; }
+		
+		.headerblock .navigation-main a:hover { color:#06294c; }
+		
+		.sidebar .widget .give-submit-button-wrap input[type=""submit""], 
+		.button,
+		.entry-content a.button, 
+		.tribe-events-loop .type-tribe_events.tribe-events-last, 
+		#tribe-events .tribe-events-button, 
+		#tribe-events .tribe-events-button:hover, 
+		#tribe_events_filters_wrapper input[type=submit], 
+		.tribe-events-button, .tribe-events-button.tribe-active:hover, 
+		.tribe-events-button.tribe-inactive, 
+		.tribe-events-button:hover, 
+		.tribe-events-calendar td.tribe-events-present div[id*=tribe-events-daynum-], 
+		.tribe-events-calendar td.tribe-events-present div[id*=tribe-events-daynum-]>","HTML",14
+"https://www.welfarefootprint.org/","a,
+		#tribe-events-content .tribe-events-calendar td.tribe-events-present.mobile-active:hover, 
+		.tribe-events-calendar td.tribe-events-present.mobile-active, 
+		.tribe-events-calendar td.tribe-events-present.mobile-active div[id*=tribe-events-daynum-], 
+		.tribe-events-calendar td.tribe-events-present.mobile-active div[id*=tribe-events-daynum-] a, 
+		.widget.buddypress #bp-login-widget-form #bp-login-widget-submit, 
+		.woocommerce span.onsale, 
+		.content-caption .button, 
+		button, 
+		input[type=""button""], 
+		input[type=""reset""], 
+		input[type=""submit""], 
+		.block-two-content .button, 
+		button,
+		input[type=""button""], 
+		input[type=""reset""],
+		input[type=""submit""],
+		[id*=give-form].give-display-modal .give-btn, 
+		[id*=give-form].give-display-reveal .give-btn,
+		.ps-member-is-online,
+		.ps-focus-title>span>span,
+		.navigation-main li.color a,
+		.main-small-navigation li.color a,
+		.navigation-main li.color a:hover,
+		.main-small-navigation li.color a:hover, 
+		#sidebar input#bbp_search_submit:hover,
+		#sidebar input#bbp_search_submit, div.wpforms-container-full .wpforms-form input[type=submit], 
+		div.wpforms-container-full .wpforms-form button[type=submit], 
+		div.wpforms-container-full .wpforms-form .wpforms-page-button { color:#1a344e; }
+		
+		.tribe-events-button, .tribe-events-button:hover, #peepso-wrap .ps-btn-login, .ps-btn-primary, .ps-progress-bar>","HTML",15
+"https://www.welfarefootprint.org/","span, .ps-btn-login, .ps-button-action { background:#1a344e!important; }
+		
+		.ps-input:focus, .ps-select:focus { border:#1a344e!important; }
+		
+		.color, .cd-panel-content a,.page-template-staff-page .staff-column ul a,.page-template-full-bg-page .aboutpage ul a, .woocommerce ul.products li.product .price,.woocommerce span.amount,.woocommerce .woocommerce-message:before { color: #1a344e; }
+		
+		blockquote { border-left-color: #1a344e; }
+		
+		.block-four .post .entry-title { border-bottom-color: #1a344e; }
+		
+		.woocommerce .woocommerce-message { border-top-color: #1a344e; }
+			
+		.page-template-front-page-one .soliloquy-theme-karisma .soliloquy-caption-inside a, .page-template-front-page-one .soliloquy-theme-karisma .soliloquy-caption-inside .soliloquy-fc-title-link, .page-template-front-page-one .soliloquy-theme-karisma.soliloquy-caption-inside .soliloquy-fc-read-more,.single-product p.price { color: #1a344e!important; }
+		
+		.button:hover, .navigation-main li.color a:hover, .main-small-navigation li.color a:hover, #sidebar input#bbp_search_submit:hover { background:#1a344e; }
+		
+		.pagination .prev,.pagination .next,.tagcloud a,.sticky-post,.page-links a,.cd-panel-container,.aboutpage .cd-fixed-bg-one,.aboutpage .cd-fixed-bg-one.withoutimg, .woocommerce .widget_price_filter .price_slider_wrapper .ui-widget-content { background-color:#1a344e; }
+		
+		.woocommerce .widget_price_filter .price_slider_wrapper .ui-widget-content { color:#1a344e; }
+		
+		.news .entry-content a.more-link,.news .entry-content a.button,.block-two,.overlay,.info_pic,.info_details .button,.tribe-events-read-more,#tribe-bar-form .tribe-bar-submit input[type=submit],#buddypress div.generic-button a,.woocommerce #respond input#submit.alt, .woocommerce a.button.alt, .woocommerce button.button.alt, .woocommerce input.button.alt,.woocommerce #respond input#submit.alt:hover, .woocommerce a.button.alt:hover, .woocommerce button.button.alt:hover, .woocommerce input.button.alt:hover,.comment-list .reply a, .footer { background:#1a344e; }
+		
+		.sticky-post, .page-template-about-page .info .entry-content a.button, .comment-list .reply a, #buddypress div.generic-button a, .woocommerce button.button.alt,
+		.block-two .entry-content h1, .block-two .entry-content h1, .news .entry-content a.more-link { color:; }
+		
+		@media screen and (max-width: 955px){
+			.main-small-navigation div, .pagination { background-color:; }
+		}
+		
+		@media screen and (max-width: 48.75em) {
+			.content-caption { background:#1a344e; }
+			}
+		
+		.sidebar .widget input[type=""submit""],.sidebar .widget,.page-template-about-page .columns .entry-content,.info,body.page-template-full-width-page,.page-template-events-page-php,.page.page-template-full-width-page div.give-form-wrap,.page.page-template-staff-page .columns .entry-content,.tribe-events-back,.tribe-events-day .tribe-events-day-time-slot h5,.page-template-buddypress-php,.page-template-forum-php,.page-template-404-php,#buddypress #search-groups-form input[type=submit],#buddypress #members-dir-search input[type=submit],#buddypress div.item-list-tabs ul li.last select,input#bbp_search_submit,.woocommerce .page-title,.woocommerce .page-description,.woocommerce #respond input#submit, .woocommerce a.button, .woocommerce button.button, .woocommerce input.button,form.wpcf7-form,.page-template-projects-page .fourcolumn:hover,.page-template-causes-page .fourcolumn:hover,.page-template-stories-page .fourcolumn:hover,
+		.page-template-stories-page a.more-link,blockquote, .buddypress, .bbpress, .wpforms-form { background:; }
+		
+		.site-header, .headerblock, .menu-toggle, .headerblock.standard, .headerblock.alternative, .headerblock.standard .site-header, .headerblock.alternative .site-header { background:; }
+		
+		.navigation-main a, .navigation-main ul li.menu-item-has-children >","HTML",16
+"https://www.welfarefootprint.org/"," a:after { color:; }
+		
+		.navigation-main ul ul a, .navigation-main ul ul ul a { color:; }
+		
+		.navigation-main li li.current_page_item > a, .navigation-main li li.current-menu-item > a, .navigation-main ul ul { background-color:; }
+		
+		.navigation-main .current_page_item > a, .navigation-main .current-menu-item > a, .navigation-main .current_page_ancestor > a { color:; }
+		
+		.footer a, .footer .widget, .copyright, .footer .widget-title { color:#a5bfc9; }
+		
+		.site-info a:hover { border-color:#a5bfc9; }
+		
+		.footer { background:#1a344e; }
+		
+		.copyright { border-top-color: #1a344e; }
+		
+		body { background:; }
+
+		.search-toggle, .search-box-wrapper, .standard-header .search-toggle, .standard-header .search-box-wrapper, 
+		.alternative-header .search-toggle, .alternative-header .search-box-wrapper, .fixed .search-toggle { margin-top:px; }
+		}
+		
+		@media screen and (min-width: 59.6875em) {
+		.social-navigation { top:px; }
+		}
+		@media screen and (min-width: 59.6875em) {
+		.search-toggle, .search-box-wrapper, .standard-header .search-toggle, .standard-header .search-box-wrapper, .alternative-header .search-toggle, .alternative-header .search-box-wrapper, .fixed .search-toggle { margin-top:90px; }
+		}
+		
+		@media screen and (max-width: 955px){
+			.custom-logo {
+				width: 169px;
+			}
+		}
+		
+				
+				.archive.woocommerce .widget-area {
+			display: none;
+		}
+		.archive.woocommerce .footer .widget-area {
+			display: block;
+		}
+		.woocommerce div#primary {
+			width: 100%;
+			float: none;
+			margin-right: 0;
+		}
+				
+				.single.woocommerce .widget-area {
+			display: none;
+		}
+		.single.woocommerce .footer .widget-area {
+			display: block;
+		}
+		.single.woocommerce div#primary {
+			width: 100%;
+			float: none;
+			margin-right: 0;
+		}
+				
+				.second-block .overlay {
+			opacity: 0.7;
+		}
+				
+				.aboutpage .cd-fixed-bg-one .overlay {
+			background: rgba(0,0,0,1.0);
+		}
+				
+	</style>
+		<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style>","HTML",17
+"https://www.welfarefootprint.org/","</noscript>
+	<meta name=""generator"" content=""Elementor 3.23.4; features: additional_custom_breakpoints, e_lazyload; settings: css_print_method-external, google_font-enabled, font_display-auto"">
+			<style>
+				.e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload),
+				.e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload) * {
+					background-image: none !important;
+				}
+				@media screen and (max-height: 1024px) {
+					.e-con.e-parent:nth-of-type(n+3):not(.e-lazyloaded):not(.e-no-lazyload),
+					.e-con.e-parent:nth-of-type(n+3):not(.e-lazyloaded):not(.e-no-lazyload) * {
+						background-image: none !important;
+					}
+				}
+				@media screen and (max-height: 640px) {
+					.e-con.e-parent:nth-of-type(n+2):not(.e-lazyloaded):not(.e-no-lazyload),
+					.e-con.e-parent:nth-of-type(n+2):not(.e-lazyloaded):not(.e-no-lazyload) * {
+						background-image: none !important;
+					}
+				}
+			</style>
+				<style type=""text/css"">
+			.site-title,
+		.site-description {
+			position: absolute;
+			clip: rect(1px, 1px, 1px, 1px);
+		}
+		</style>
+	<style type=""text/css"">","HTML",18
+"https://www.welfarefootprint.org/",".helpie-faq.accordions mark{background-color:#ff0!important}.helpie-faq.accordions mark{color:#000!important}.helpie-faq.accordions.custom-styles .accordion .accordion__item .accordion__header{padding-top:15px;padding-right:15px;padding-bottom:15px;padding-left:15px;}.helpie-faq.accordions.custom-styles .accordion .accordion__item .accordion__body{padding-top:15px;padding-right:15px;padding-bottom:0px;padding-left:15px;}.helpie-faq.accordions.custom-styles .accordion .accordion__item{border-top-width:0px;border-right-width:0px;border-bottom-width:1px;border-left-width:0px;border-color:#44596B;border-style:solid;}.helpie-faq.custom-styles .accordion .accordion__item{margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px;}.helpie-faq.custom-styles .accordion__item .accordion__header .accordion__toggle .accordion__toggle-icons{color:#44596B!important}.helpie-faq.custom-styles .accordion__header:after,.helpie-faq.custom-styles .accordion__header:before{background-color:#44596B!important}</style><link rel=""icon"" href=""https://welfarefootprint.org/wp-content/uploads/2021/04/cropped-android-chrome-512x512-1-32x32.png"" sizes=""32x32"">
+<link rel=""icon"" href=""https://welfarefootprint.org/wp-content/uploads/2021/04/cropped-android-chrome-512x512-1-192x192.png"" sizes=""192x192"">
+<link rel=""apple-touch-icon"" href=""https://welfarefootprint.org/wp-content/uploads/2021/04/cropped-android-chrome-512x512-1-180x180.png"">
+<meta name=""msapplication-TileImage"" content=""https://welfarefootprint.org/wp-content/uploads/2021/04/cropped-android-chrome-512x512-1-270x270.png"">
+		<style type=""text/css"" id=""wp-custom-css"">
+			p {
+  font-size: 16px;
+}
+a {
+  color: #06294C;
+}
+		</style>
+		<script src=""https://static.addtoany.com/menu/modules/core.D0Uc7kY6.js"" type=""module""></script><script src=""https://welfarefootprint.org/wp-includes/js/wp-emoji-release.min.js?ver=6.6.2"" defer=""""></script></head>","HTML",19
+"https://www.welfarefootprint.org/","
+
+<body class=""home page-template page-template-page-templates page-template-front-page page-template-page-templatesfront-page-php page page-id-8264 wp-custom-logo theme-maishawp woocommerce-js tribe-js standard-header four-columns-layout fixed-mobile-menu no-default-sidebar fixed-image inner-fixed-image elementor-default elementor-kit-3029"">
+	<div style=""position: static;""><div style=""height: 1px; width: 1px; position: absolute; z-index: 100000; top: 0px; visibility: hidden;""><iframe id=""a2a_sm_ifr"" title=""AddToAny Utility Frame"" aria-hidden=""true"" src=""https://static.addtoany.com/menu/sm.25.html#type=core&amp;event=load"" style=""height: 1px; width: 1px; border: 0px; left: 0px; top: 0px; position: absolute; z-index: 100000; display: none;""></iframe></div></div><div class=""headerblock standard"">
+		<div class=""content site-content"">
+			<a class=""skip-link screen-reader-text"" href=""#site"">Skip to content</a>
+			<header id=""masthead"" class=""site-header"" role=""banner"">
+				<div class=""header-inner"">
+					<a href=""https://welfarefootprint.org/"" class=""custom-logo-link"" rel=""home"" aria-current=""page""><img fetchpriority=""high"" width=""9999"" height=""1914"" src=""https://welfarefootprint.org/wp-content/uploads/2021/04/cropped-WFP-logo-blue.png"" class=""custom-logo"" alt=""Welfare Footprint Project"" decoding=""async""></a>										<p class=""site-title""><a href=""https://welfarefootprint.org/"" rel=""home"">Welfare Footprint Project</a></p>
+										<p class=""site-description"">Quantifying animal pain</p>
+														<div id=""secondary"">
+					<nav id=""site-navigation"" class=""navigation-main"" role=""navigation"">
+					<button class=""menu-toggle anarielgenericon"" aria-controls=""primary-menu"" aria-expanded=""false""><span>Primary Menu</span></button>
+					<div class=""menu-mainnav-container""><ul id=""primary-menu"" class=""nav-menu"" aria-expanded=""true"">","HTML",20
+"https://www.welfarefootprint.org/","<li id=""menu-item-4241"" class=""menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-4241"" aria-haspopup=""true""><a>METHOD</a>
+<ul class=""sub-menu"">
+	<li id=""menu-item-3234"" class=""menu-item menu-item-type-post_type menu-item-object-page menu-item-3234""><a href=""https://welfarefootprint.org/research-projects/analytical-approach/"">Cumulative Pain</a></li>
+	<li id=""menu-item-7085"" class=""menu-item menu-item-type-post_type menu-item-object-page menu-item-7085""><a href=""https://welfarefootprint.org/frequently-asked-questions/"">FAQ</a></li>
+	<li id=""menu-item-8732"" class=""menu-item menu-item-type-post_type menu-item-object-page menu-item-8732""><a href=""https://welfarefootprint.org/technical-definitions/"">Technical Definitions</a></li>
+	<li id=""menu-item-4344"" class=""menu-item menu-item-type-post_type menu-item-object-page menu-item-4344""><a href=""https://welfarefootprint.org/research-projects/pain-tracks/"">Pain-Tracks</a></li>
+	<li id=""menu-item-4342"" class=""menu-item menu-item-type-post_type menu-item-object-page menu-item-4342""><a href=""https://welfarefootprint.org/research-projects/processograms/"">Processograms</a></li>
+	<li id=""menu-item-7844"" class=""menu-item menu-item-type-taxonomy menu-item-object-category menu-item-7844""><a href=""https://welfarefootprint.org/category/method-refinements/"">Welfare Assessment Posts</a></li>
+</ul>
+</li>
+<li id=""menu-item-4173"" class=""menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-4173"" aria-haspopup=""true""><a href=""https://welfarefootprint.org/research-projects/"">Projects</a>
+<ul class=""sub-menu"">
+	<li id=""menu-item-3897"" class=""menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-3897"" aria-haspopup=""true""><a>LAYING HENS</a>
+	<ul class=""sub-menu"">
+		<li id=""menu-item-3228"" class=""menu-item menu-item-type-post_type menu-item-object-page menu-item-3228""><a href=""https://welfarefootprint.org/research-projects/laying-hens/"">","HTML",21
+"https://www.welfarefootprint.org/","Transition to cage-free systems</a></li>
+		<li id=""menu-item-3917"" class=""menu-item menu-item-type-post_type menu-item-object-post menu-item-3917""><a href=""https://welfarefootprint.org/2021/04/21/meta-analysis-mortality/"">Layer Mortality in Cage-Free System</a></li>
+	</ul>
+</li>
+	<li id=""menu-item-3918"" class=""menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-3918"" aria-haspopup=""true""><a>BROILER CHICKENS</a>
+	<ul class=""sub-menu"">
+		<li id=""menu-item-8799"" class=""menu-item menu-item-type-post_type menu-item-object-page menu-item-8799""><a href=""https://welfarefootprint.org/research-projects/better-chicken-commitment/"">Better Chicken Commitment</a></li>
+		<li id=""menu-item-3232"" class=""menu-item menu-item-type-post_type menu-item-object-page menu-item-3232""><a href=""https://welfarefootprint.org/research-projects/poultry-slaughter/"">Poultry Slaughter</a></li>
+	</ul>
+</li>
+	<li id=""menu-item-3919"" class=""menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-3919"" aria-haspopup=""true""><a>PIGS</a>
+	<ul class=""sub-menu"">
+		<li id=""menu-item-4347"" class=""menu-item menu-item-type-post_type menu-item-object-page menu-item-4347""><a href=""https://welfarefootprint.org/research-projects/welfare-reforms-for-pigs/"">Welfare Reforms for Pigs</a></li>
+		<li id=""menu-item-8318"" class=""menu-item menu-item-type-post_type menu-item-object-post menu-item-8318""><a href=""https://welfarefootprint.org/2022/05/26/sows/"">Productivity &amp; mortality of sows</a></li>
+	</ul>
+</li>
+	<li id=""menu-item-3920"" class=""menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-3920"" aria-haspopup=""true""><a>FISH</a>
+	<ul class=""sub-menu"">
+		<li id=""menu-item-6839"" class=""menu-item menu-item-type-post_type menu-item-object-page menu-item-6839""><a href=""https://welfarefootprint.org/research-projects/welfare-of-farmed-fish/"">Welfare of Farmed Fish</a></li>","HTML",22
+"https://www.welfarefootprint.org/","
+		<li id=""menu-item-4346"" class=""menu-item menu-item-type-post_type menu-item-object-page menu-item-4346""><a href=""https://welfarefootprint.org/research-projects/salmon-welfare-2/"">Salmon Welfare</a></li>
+	</ul>
+</li>
+	<li id=""menu-item-3921"" class=""menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-3921"" aria-haspopup=""true""><a href=""#"">WILD ANIMALS</a>
+	<ul class=""sub-menu"">
+		<li id=""menu-item-7551"" class=""menu-item menu-item-type-post_type menu-item-object-page menu-item-7551""><a href=""https://welfarefootprint.org/research-projects/cumulative-pain-and-wild-animal-welfare-assessments/"">Cumulative Pain &amp; Wild Animal Welfare</a></li>
+		<li id=""menu-item-4345"" class=""menu-item menu-item-type-post_type menu-item-object-page menu-item-4345""><a href=""https://welfarefootprint.org/research-projects/wild-animal-welfare-2/"">The Concept of Life-Fates</a></li>
+	</ul>
+</li>
+	<li id=""menu-item-3922"" class=""menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-3922"" aria-haspopup=""true""><a>HUMAN WELFARE</a>
+	<ul class=""sub-menu"">
+		<li id=""menu-item-4343"" class=""menu-item menu-item-type-post_type menu-item-object-page menu-item-4343""><a href=""https://welfarefootprint.org/research-projects/globalhealth/"">Animal welfare effects on human health</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id=""menu-item-8608"" class=""menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-8608"" aria-haspopup=""true""><a>WORKSHOPS</a>
+<ul class=""sub-menu"">
+	<li id=""menu-item-7894"" class=""menu-item menu-item-type-post_type menu-item-object-page menu-item-7894""><a href=""https://welfarefootprint.org/workshop/"">Apply for a workshop</a></li>
+	<li id=""menu-item-8606"" class=""menu-item menu-item-type-post_type menu-item-object-page menu-item-8606""><a href=""https://welfarefootprint.org/online-workshop-faq/"">Online Workshop FAQ</a></li>
+</ul>
+</li>","HTML",23
+"https://www.welfarefootprint.org/","
+<li id=""menu-item-7086"" class=""menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-7086"" aria-haspopup=""true""><a href=""#"">Resources</a>
+<ul class=""sub-menu"">
+	<li id=""menu-item-8482"" class=""menu-item menu-item-type-post_type menu-item-object-page menu-item-8482""><a href=""https://welfarefootprint.org/compare/"">PAIN COMPARE VIZ</a></li>
+	<li id=""menu-item-8899"" class=""menu-item menu-item-type-post_type menu-item-object-page menu-item-8899""><a href=""https://welfarefootprint.org/welfare-assessments/"">WELFARE ASSESSMENT TOOLS</a></li>
+	<li id=""menu-item-6471"" class=""menu-item menu-item-type-post_type menu-item-object-page menu-item-6471""><a href=""https://welfarefootprint.org/material/"">IMAGES &amp; DATA</a></li>
+	<li id=""menu-item-7867"" class=""menu-item menu-item-type-post_type menu-item-object-page menu-item-7867""><a href=""https://welfarefootprint.org/videos/"">VIDEOS</a></li>
+</ul>
+</li>
+<li id=""menu-item-8911"" class=""menu-item menu-item-type-post_type menu-item-object-page menu-item-8911""><a href=""https://welfarefootprint.org/frequently-asked-questions/"">FAQ</a></li>
+<li id=""menu-item-8180"" class=""menu-item menu-item-type-post_type menu-item-object-page menu-item-8180""><a href=""https://welfarefootprint.org/blog/"">Blog</a></li>
+<li id=""menu-item-7892"" class=""menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-7892"" aria-haspopup=""true""><a>About</a>
+<ul class=""sub-menu"">
+	<li id=""menu-item-3294"" class=""menu-item menu-item-type-post_type menu-item-object-page menu-item-3294""><a href=""https://welfarefootprint.org/team-mission/"">Mission and Team</a></li>
+	<li id=""menu-item-8682"" class=""menu-item menu-item-type-post_type menu-item-object-page menu-item-8682""><a href=""https://welfarefootprint.org/office-hours/"">Virtual Office Hours</a></li>
+	<li id=""menu-item-5600"" class=""menu-item menu-item-type-post_type menu-item-object-page menu-item-5600"">","HTML",24
+"https://www.welfarefootprint.org/","<a href=""https://welfarefootprint.org/interested-in-collaborating/"">Interest in collaborating</a></li>
+	<li id=""menu-item-8594"" class=""menu-item menu-item-type-post_type menu-item-object-page menu-item-8594""><a href=""https://welfarefootprint.org/feedback-form/"">Feedback form</a></li>
+</ul>
+</li>
+</ul></div>					</nav><!-- #site-navigation -->
+					</div>
+								</div>
+			</header><!-- .site-header -->
+		</div><!-- .site-content -->
+	</div><!-- .headerblock -->
+		<div class=""search-toggle"">
+		<a href=""#search-container"" class=""screen-reader-text"" aria-expanded=""false"" aria-controls=""search-container"">Search</a>
+	</div>
+	<div id=""search-container"" class=""search-box-wrapper hide"">
+		<div class=""search-box"">
+			<form role=""search"" method=""get"" class=""search-form"" action=""https://welfarefootprint.org/"">
+				<label>
+					<span class=""screen-reader-text"">Search for:</span>
+					<input type=""search"" class=""search-field"" placeholder=""Search …"" value="""" name=""s"">
+				</label>
+				<input type=""submit"" class=""search-submit screen-reader-text"" value=""Search"">
+			</form>		</div>
+	</div>
+	<div id=""site"">		<div class=""intro"">
+			<div class=""homepage"">
+		<article id=""post-8264"" class=""post-8264 page type-page status-publish has-post-thumbnail hentry"">
+									<div class=""cd-fixed-bg cd-bg-1"" style=""background-image:url(https://welfarefootprint.org/wp-content/uploads/2023/07/Welfare-Footprint-P.png);""></div>
+						<div class=""content-caption"">
+				<div class=""entry-content"">
+					<div class=""cd-main-content"">
+					
+<h1 class=""wp-block-heading"" style=""font-size:21px;font-style:normal;font-weight:400"">THE WELFARE FOOTPRINT PROJECT</h1>
+
+
+
+<p style=""font-size:16px"">","HTML",25
+"https://www.welfarefootprint.org/","is a scientific effort to quantify animal welfare to inform practice, policy, investing and purchasing decisions. To this end, welfare impacts are quantified using a biologically meaningful, relatable and comparable metric, applicable across contexts, environments and species: time in affective states (negative or positive) of different intensities. The project brings together scientific evidence from multiple disciplines, rigorous analytical processes and transparency to inform decisions in any area involving the welfare of animals.</p>
+
+
+
+<div class=""wp-block-buttons is-content-justification-center is-layout-flex wp-container-core-buttons-is-layout-1 wp-block-buttons-is-layout-flex"">
+<div class=""wp-block-button has-custom-width wp-block-button__width-50 has-custom-font-size"" style=""font-size:16px""><a class=""wp-block-button__link has-orange-background-color has-background wp-element-button"" href=""https://welfarefootprint.org/research-projects/analytical-approach/"" style=""border-radius:0px"">the method</a></div>
+</div>
+
+
+
+<p></p>
+															</div>
+					<div class=""cd-panel from-right"">
+					<header class=""cd-panel-header"">
+						<a href=""#0"" class=""cd-panel-close"">Close</a>
+					</header>
+
+					<div class=""cd-panel-container"">
+					<div class=""cd-panel-content"">
+										</div> <!-- cd-panel-content -->
+					</div> <!-- cd-panel-container -->
+					</div> <!-- cd-panel -->
+				</div><!-- .entry-content -->
+			</div><!-- .content-caption -->
+					</article><!-- #post-## -->
+	</div><!-- .homepage -->	</div><!-- .intro -->
+		<div class=""block-one"">
+	<div class=""hfeed site"">
+		<div class=""content site-content"">
+			<div class=""content-area"">
+				<div class=""main site-main"" role=""main"">
+																																				
+<article id=""post-1178"" class=""post-1178 page type-page status-publish has-post-thumbnail hentry"">
+	<div class=""entry-content"">
+		<h2 class=""entry-title"">OUR GOALS</h2>								<div class=""child-pages columns clear"">
+			
+<div class=""column clearfix"">","HTML",26
+"https://www.welfarefootprint.org/","
+	<article id=""post-1179"" class=""post-1179 page type-page status-publish has-post-thumbnail hentry"">
+
+					<img width=""64"" height=""76"" src=""https://welfarefootprint.org/wp-content/uploads/2021/04/finger-1.png"" class=""attachment-maisha-front-child-page-thumbnail size-maisha-front-child-page-thumbnail wp-post-image"" alt="""" decoding=""async"">		
+		<div class=""entry-content"">
+
+										
+			<p style=""text-align: center;"">To support <strong>informed </strong>funding, investment, purchasing &amp; policy <strong>decisions</strong>.</p>
+
+
+<p></p>
+								</div><!-- .entry-content -->
+	</article><!-- #post-## -->
+</div>
+<div class=""column clearfix"">
+	<article id=""post-47"" class=""post-47 page type-page status-publish has-post-thumbnail hentry"">
+
+					<img width=""64"" height=""76"" src=""https://welfarefootprint.org/wp-content/uploads/2021/04/finger-1.png"" class=""attachment-maisha-front-child-page-thumbnail size-maisha-front-child-page-thumbnail wp-post-image"" alt="""" decoding=""async"">		
+		<div class=""entry-content"">
+
+										
+			<p style=""text-align: center;"">To promote <strong>awareness</strong> about the welfare impacts of activities involving animals</p>
+								</div><!-- .entry-content -->
+	</article><!-- #post-## -->
+</div>
+<div class=""column clearfix"">
+	<article id=""post-3115"" class=""post-3115 page type-page status-publish has-post-thumbnail hentry"">
+
+					<img width=""64"" height=""76"" src=""https://welfarefootprint.org/wp-content/uploads/2021/04/finger-1.png"" class=""attachment-maisha-front-child-page-thumbnail size-maisha-front-child-page-thumbnail wp-post-image"" alt="""" decoding=""async"">		
+		<div class=""entry-content"">
+
+										
+			
+<p class=""has-text-align-center"">To foster <strong>targeted research</strong> on animal health and welfare</p>
+								</div><!-- .entry-content -->
+	</article><!-- #post-## -->
+</div>
+<div class=""column clearfix"">
+	<article id=""post-3117"" class=""post-3117 page type-page status-publish has-post-thumbnail hentry"">","HTML",27
+"https://www.welfarefootprint.org/","
+
+					<img width=""64"" height=""76"" src=""https://welfarefootprint.org/wp-content/uploads/2021/04/finger-1.png"" class=""attachment-maisha-front-child-page-thumbnail size-maisha-front-child-page-thumbnail wp-post-image"" alt="""" decoding=""async"">		
+		<div class=""entry-content"">
+
+										
+			
+<p class=""has-text-align-center"">To help integrate welfare into <strong>sustainability assessments</strong> and <strong>economic analyses</strong>.</p>
+								</div><!-- .entry-content -->
+	</article><!-- #post-## -->
+</div>		</div>
+		<!-- .child-pages -->
+	</div><!-- .entry-content -->
+</article><!-- #post-## -->																							</div><!-- .site-main -->
+			</div><!-- .content-area -->
+		</div><!-- .site-content -->
+	</div><!-- .site -->
+</div><!-- .block-one -->
+	<div class=""second-block"">
+																			<div class=""block-two"" style=""background-image:url(https://welfarefootprint.org/wp-content/uploads/2023/07/peixes.jpg);""><div class=""overlay""></div>
+		<div class=""hfeed site block-two-content"">
+			<div class=""content site-content"">
+				<div class=""content-area"">
+					<div class=""main site-main"" role=""main"">
+						<article id=""post-8285"" class=""post-8285 page type-page status-publish has-post-thumbnail hentry"">
+							<div class=""entry-content"">
+								
+<h1 class=""wp-block-heading"">Registration open for workshops</h1>
+
+
+
+<p style=""font-size:16px"">LEARN HOW TO ESTIMATE THE LOSS OF WELFARE EXPERIENCED BY ANIMALS IN ANY ENVIRONMENT OR PRODUCTION CONTEXT USING A COMPARATIVE AND BIOLOGICALLY MEANINGFUL METRIC: TIME IN PAIN OF DIFFERENT INTENSITIES.</p>
+
+
+
+<div class=""wp-block-buttons has-custom-font-size is-horizontal is-content-justification-center is-layout-flex wp-container-core-buttons-is-layout-2 wp-block-buttons-is-layout-flex"" style=""font-size:5px"">
+<div class=""wp-block-button has-custom-width wp-block-button__width-25 has-custom-font-size"" style=""font-size:16px"">","HTML",28
+"https://www.welfarefootprint.org/","<a class=""wp-block-button__link has-orange-background-color has-background wp-element-button"" href=""https://welfarefootprint.org/workshop-a/"" style=""border-radius:0px"">more info</a></div>
+</div>
+																							</div><!-- .entry-content -->
+						</article><!-- #post-## -->
+					</div><!-- .site-main -->
+				</div><!-- .content-area -->
+			</div><!-- .site-content -->
+		</div><!-- .site -->
+	</div><!-- .block-two -->							</div><!-- .second-block -->
+	<div class=""block-three"">
+	<div class=""hfeed site"">
+		<div class=""content site-content"">
+			<div class=""content-area"">
+				<div class=""main site-main"" role=""main"">
+																																
+<article id=""post-54"" class=""post-54 page type-page status-publish has-post-thumbnail hentry"">
+	<div class=""entry-content"">
+				<div class=""one_third"">
+		<img width=""526"" height=""618"" src=""https://welfarefootprint.org/wp-content/uploads/2023/07/LOGOC4.png"" class=""attachment-post-thumbnail size-post-thumbnail wp-post-image"" alt="""" decoding=""async"" srcset=""https://welfarefootprint.org/wp-content/uploads/2023/07/LOGOC4.png 526w, https://welfarefootprint.org/wp-content/uploads/2023/07/LOGOC4-255x300.png 255w, https://welfarefootprint.org/wp-content/uploads/2023/07/LOGOC4-170x200.png 170w, https://welfarefootprint.org/wp-content/uploads/2023/07/LOGOC4-150x176.png 150w, https://welfarefootprint.org/wp-content/uploads/2023/07/LOGOC4-300x352.png 300w, https://welfarefootprint.org/wp-content/uploads/2023/07/LOGOC4-524x616.png 524w, https://welfarefootprint.org/wp-content/uploads/2023/07/LOGOC4-420x493.png 420w, https://welfarefootprint.org/wp-content/uploads/2023/07/LOGOC4-444x522.png 444w"" sizes=""(max-width: 526px) 100vw, 526px"">		
+<p></p>
+
+
+
+<div class=""wp-block-buttons is-content-justification-center is-layout-flex wp-container-core-buttons-is-layout-3 wp-block-buttons-is-layout-flex"">
+<div class=""wp-block-button has-custom-font-size"" style=""font-size:16px"">","HTML",29
+"https://www.welfarefootprint.org/","<a class=""wp-block-button__link has-orange-background-color has-background wp-element-button"" href=""https://welfarefootprint.org/research-projects/"" style=""border-radius:0px"">SEE ALL PROJECTS</a></div>
+</div>
+
+
+
+<p></p>
+						</div>
+		<div class=""two_third lastcolumn"">
+			
+<article id=""post-64"" class=""post-64 page type-page status-publish has-post-thumbnail hentry"">
+	<div class=""entry-content"">
+		<div class=""featured-image"">
+			<img width=""60"" height=""50"" src=""https://welfarefootprint.org/wp-content/uploads/2021/04/fish-head.jpg"" class=""attachment-post-thumbnail size-post-thumbnail wp-post-image"" alt="""" decoding=""async"">		</div><!-- .featured-image -->
+		<div class=""content-right-block"">
+			<h2 class=""entry-title"">Pain averted by implementing standards for salmon welfare</h2>			<p>This project aims to estimate the impact of different standards on salmon welfare. These improvements include better water quality, transport and handling procedures, restrictions on fasting, management of stocking densities, and the use of effective stunning prior to slaughter [<span style=""color: #0b73b0;""><a style=""color: #0b73b0;"" href=""https://welfarefootprint.org/research-projects/salmon-welfare-2/"">learn more</a></span>].<br>
+.</p>
+								</div><!-- .content-right-block -->
+	</div><!-- .entry-content -->
+</article><!-- #post-## -->
+<article id=""post-62"" class=""post-62 page type-page status-publish has-post-thumbnail hentry"">
+	<div class=""entry-content"">
+		<div class=""featured-image"">
+			<img width=""60"" height=""53"" src=""https://welfarefootprint.org/wp-content/uploads/2021/04/pig-head.jpg"" class=""attachment-post-thumbnail size-post-thumbnail wp-post-image"" alt="""" decoding=""async"">		</div><!-- .featured-image -->
+		<div class=""content-right-block"">
+			<h2 class=""entry-title"">Impact of welfare reforms for pigs</h2>			<p>","HTML",30
+"https://www.welfarefootprint.org/","We are quantifying the effect of several welfare reforms for pigs. Among others, these reforms include phasing out gestation crates for sows, eliminating surgical castration in male piglets, and implementing later weaning ages [<span style=""color: #1272b3;""><a style=""color: #1272b3;"" href=""https://welfarefootprint.org/research-projects/welfare-reforms-for-pigs/"">learn more</a></span>].&nbsp;</p>
+
+
+<p></p>
+								</div><!-- .content-right-block -->
+	</div><!-- .entry-content -->
+</article><!-- #post-## -->
+<article id=""post-60"" class=""post-60 page type-page status-publish has-post-thumbnail hentry"">
+	<div class=""entry-content"">
+		<div class=""featured-image"">
+			<img width=""60"" height=""54"" src=""https://welfarefootprint.org/wp-content/uploads/2021/04/chicken-head.jpg"" class=""attachment-post-thumbnail size-post-thumbnail wp-post-image"" alt="""" decoding=""async"">		</div><!-- .featured-image -->
+		<div class=""content-right-block"">
+			<h2 class=""entry-title"">The Better Chicken Commitment</h2>			
+<p>In this project we investigated the impact of the <span style=""color: #3366ff;""><a style=""color: #3366ff;"" rel=""noopener"" href=""https://betterchickencommitment.com/en/policy/"" target=""_blank""><mark style=""background-color:rgba(0, 0, 0, 0);color:#0072a3"" class=""has-inline-color"">Better Chicken Commitment</mark></a></span>, a set of welfare standards for broiler chickens that address stocking densities, the use of slower growing breeds, improved environmental standards and pre-slaughter stunning methods [<a href=""https://welfarefootprint.org/research-projects/better-chicken-commitment/""><mark style=""background-color:rgba(0, 0, 0, 0);color:#0372a2"" class=""has-inline-color"">learn more</mark></a>]</p>
+
+
+
+<p></p>
+								</div><!-- .content-right-block -->
+	</div><!-- .entry-content -->
+</article><!-- #post-## -->
+<article id=""post-57"" class=""post-57 page type-page status-publish has-post-thumbnail hentry"">
+	<div class=""entry-content"">
+		<div class=""featured-image"">","HTML",31
+"https://www.welfarefootprint.org/","
+			<img width=""60"" height=""54"" src=""https://welfarefootprint.org/wp-content/uploads/2021/04/chicken-head.jpg"" class=""attachment-post-thumbnail size-post-thumbnail wp-post-image"" alt="""" decoding=""async"">		</div><!-- .featured-image -->
+		<div class=""content-right-block"">
+			<h2 class=""entry-title"">Welfare impact of cage-free reforms</h2>			<p>In this project we <span style=""font-weight: 400;"">quantified the impact of reforms that aim to improve the welfare of egg-laying hens, specifically the transition to cage-free production systems.</span> The results are available in the book <em><span style=""color: #000000;"">Quantifying Pain in Laying Hens</span></em> [<span style=""color: #277fb3;""><a style=""color: #277fb3;"" href=""https://welfarefootprint.org/research-projects/laying-hens/"">learn more</a></span>].</p>
+
+
+<p></p>
+								</div><!-- .content-right-block -->
+	</div><!-- .entry-content -->
+</article><!-- #post-## -->		</div>
+			</div><!-- .entry-content -->
+</article><!-- #post-## -->																					</div><!-- .site-main -->
+			</div><!-- .content-area -->
+		</div><!-- .site-content -->
+	</div><!-- .site -->
+</div><!-- .block-one -->
+		 <div class=""block-four"">
+		<div class=""columns clear"">
+			
+			<div class=""widget-area"" role=""complementary"">
+			<div>		<div class=""widget-title-wrap""><h3 class=""widget-title""><span>Latest Publications</span></h3></div>	<div class=""clearfix"">
+		<div class=""threecolumn clearfix"">
+		<article id=""post-9569"" class=""post-9569 post type-post status-publish format-standard has-post-thumbnail hentry category-method-refinements"">
+			<div class=""entry-content"">
+				<figure>
+				<a href=""https://welfarefootprint.org/2024/09/13/bridging-neuroscience-and-philosophy-exploring-animal-emotions-and-welfare-with-the-neurophilosopher-gpt-tool/"">
+				
+	<div class=""post-thumbnail"">","HTML",32
+"https://www.welfarefootprint.org/","
+		<img width=""999"" height=""667"" src=""https://welfarefootprint.org/wp-content/uploads/2024/09/grande.png"" class=""attachment-post-thumbnail size-post-thumbnail wp-post-image"" alt="""" decoding=""async"" srcset=""https://welfarefootprint.org/wp-content/uploads/2024/09/grande.png 999w, https://welfarefootprint.org/wp-content/uploads/2024/09/grande-300x200.png 300w, https://welfarefootprint.org/wp-content/uploads/2024/09/grande-768x513.png 768w, https://welfarefootprint.org/wp-content/uploads/2024/09/grande-200x134.png 200w, https://welfarefootprint.org/wp-content/uploads/2024/09/grande-150x100.png 150w, https://welfarefootprint.org/wp-content/uploads/2024/09/grande-547x365.png 547w, https://welfarefootprint.org/wp-content/uploads/2024/09/grande-678x453.png 678w, https://welfarefootprint.org/wp-content/uploads/2024/09/grande-524x350.png 524w, https://welfarefootprint.org/wp-content/uploads/2024/09/grande-420x280.png 420w, https://welfarefootprint.org/wp-content/uploads/2024/09/grande-444x296.png 444w, https://welfarefootprint.org/wp-content/uploads/2024/09/grande-916x612.png 916w, https://welfarefootprint.org/wp-content/uploads/2024/09/grande-600x401.png 600w"" sizes=""(max-width: 999px) 100vw, 999px"">	</div><!-- .post-thumbnail -->
+
+					</a>
+				<figcaption>
+				<header class=""entry-header"">
+					<h2 class=""entry-title""><a href=""https://welfarefootprint.org/2024/09/13/bridging-neuroscience-and-philosophy-exploring-animal-emotions-and-welfare-with-the-neurophilosopher-gpt-tool/"">Bridging Neuroscience and Philosophy: Exploring Animal Emotions and Welfare with the Neurophilosopher GPT Tool</a></h2>
+				</header><!-- .entry-header -->
+								</figcaption>
+				</figure>
+			</div>
+		</article><!-- #post-## -->
+	</div>
+		<div class=""threecolumn clearfix"">
+		<article id=""post-9521"" class=""post-9521 post type-post status-publish format-standard has-post-thumbnail hentry category-method-refinements"">
+			<div class=""entry-content"">
+				<figure>","HTML",33
+"https://www.welfarefootprint.org/","
+				<a href=""https://welfarefootprint.org/2024/09/01/beef-cattle-welfare-position/"">
+				
+	<div class=""post-thumbnail"">
+		<img width=""999"" height=""666"" src=""https://welfarefootprint.org/wp-content/uploads/2024/09/featured.jpg"" class=""attachment-post-thumbnail size-post-thumbnail wp-post-image"" alt="""" decoding=""async"" srcset=""https://welfarefootprint.org/wp-content/uploads/2024/09/featured.jpg 999w, https://welfarefootprint.org/wp-content/uploads/2024/09/featured-300x200.jpg 300w, https://welfarefootprint.org/wp-content/uploads/2024/09/featured-768x512.jpg 768w, https://welfarefootprint.org/wp-content/uploads/2024/09/featured-200x133.jpg 200w, https://welfarefootprint.org/wp-content/uploads/2024/09/featured-150x100.jpg 150w, https://welfarefootprint.org/wp-content/uploads/2024/09/featured-547x365.jpg 547w, https://welfarefootprint.org/wp-content/uploads/2024/09/featured-678x452.jpg 678w, https://welfarefootprint.org/wp-content/uploads/2024/09/featured-524x349.jpg 524w, https://welfarefootprint.org/wp-content/uploads/2024/09/featured-420x280.jpg 420w, https://welfarefootprint.org/wp-content/uploads/2024/09/featured-444x296.jpg 444w, https://welfarefootprint.org/wp-content/uploads/2024/09/featured-916x611.jpg 916w, https://welfarefootprint.org/wp-content/uploads/2024/09/featured-600x400.jpg 600w"" sizes=""(max-width: 999px) 100vw, 999px"">	</div><!-- .post-thumbnail -->
+
+					</a>
+				<figcaption>
+				<header class=""entry-header"">
+					<h2 class=""entry-title""><a href=""https://welfarefootprint.org/2024/09/01/beef-cattle-welfare-position/"">Consulting Opportunity: Beef Cattle Welfare Research</a></h2>
+				</header><!-- .entry-header -->
+								</figcaption>
+				</figure>
+			</div>
+		</article><!-- #post-## -->
+	</div>
+		<div class=""threecolumn clearfix"">
+		<article id=""post-9313"" class=""post-9313 post type-post status-publish format-standard has-post-thumbnail hentry category-method-refinements"">
+			<div class=""entry-content"">
+				<figure>","HTML",34
+"https://www.welfarefootprint.org/","
+				<a href=""https://welfarefootprint.org/2024/06/25/ai-mapping-suffering/"">
+				
+	<div class=""post-thumbnail"">
+		<img width=""999"" height=""666"" src=""https://welfarefootprint.org/wp-content/uploads/2024/06/FEATURED.png"" class=""attachment-post-thumbnail size-post-thumbnail wp-post-image"" alt="""" decoding=""async"" srcset=""https://welfarefootprint.org/wp-content/uploads/2024/06/FEATURED.png 999w, https://welfarefootprint.org/wp-content/uploads/2024/06/FEATURED-300x200.png 300w, https://welfarefootprint.org/wp-content/uploads/2024/06/FEATURED-768x512.png 768w, https://welfarefootprint.org/wp-content/uploads/2024/06/FEATURED-200x133.png 200w, https://welfarefootprint.org/wp-content/uploads/2024/06/FEATURED-150x100.png 150w, https://welfarefootprint.org/wp-content/uploads/2024/06/FEATURED-547x365.png 547w, https://welfarefootprint.org/wp-content/uploads/2024/06/FEATURED-678x452.png 678w, https://welfarefootprint.org/wp-content/uploads/2024/06/FEATURED-524x349.png 524w, https://welfarefootprint.org/wp-content/uploads/2024/06/FEATURED-420x280.png 420w, https://welfarefootprint.org/wp-content/uploads/2024/06/FEATURED-444x296.png 444w, https://welfarefootprint.org/wp-content/uploads/2024/06/FEATURED-916x611.png 916w, https://welfarefootprint.org/wp-content/uploads/2024/06/FEATURED-600x400.png 600w"" sizes=""(max-width: 999px) 100vw, 999px"">	</div><!-- .post-thumbnail -->
+
+					</a>
+				<figcaption>
+				<header class=""entry-header"">
+					<h2 class=""entry-title""><a href=""https://welfarefootprint.org/2024/06/25/ai-mapping-suffering/"">Can AI power the Global Mapping and Quantification of Animal Suffering? The Pain Atlas Project</a></h2>
+				</header><!-- .entry-header -->
+								</figcaption>
+				</figure>
+			</div>
+		</article><!-- #post-## -->
+	</div>
+		<div class=""threecolumn clearfix"">
+		<article id=""post-9190"" class=""post-9190 post type-post status-publish format-standard has-post-thumbnail hentry category-method-refinements"">
+			<div class=""entry-content"">
+				<figure>","HTML",35
+"https://www.welfarefootprint.org/","
+				<a href=""https://welfarefootprint.org/2024/03/12/positive-animal-welfare/"">
+				
+	<div class=""post-thumbnail"">
+		<img width=""999"" height=""666"" src=""https://welfarefootprint.org/wp-content/uploads/2024/03/DALL·E-2024-06-10-11.17.37-FEATURE-IMAGE-999-666.png"" class=""attachment-post-thumbnail size-post-thumbnail wp-post-image"" alt="""" decoding=""async"" srcset=""https://welfarefootprint.org/wp-content/uploads/2024/03/DALL·E-2024-06-10-11.17.37-FEATURE-IMAGE-999-666.png 999w, https://welfarefootprint.org/wp-content/uploads/2024/03/DALL·E-2024-06-10-11.17.37-FEATURE-IMAGE-999-666-300x200.png 300w, https://welfarefootprint.org/wp-content/uploads/2024/03/DALL·E-2024-06-10-11.17.37-FEATURE-IMAGE-999-666-768x512.png 768w, https://welfarefootprint.org/wp-content/uploads/2024/03/DALL·E-2024-06-10-11.17.37-FEATURE-IMAGE-999-666-200x133.png 200w, https://welfarefootprint.org/wp-content/uploads/2024/03/DALL·E-2024-06-10-11.17.37-FEATURE-IMAGE-999-666-150x100.png 150w, https://welfarefootprint.org/wp-content/uploads/2024/03/DALL·E-2024-06-10-11.17.37-FEATURE-IMAGE-999-666-547x365.png 547w, https://welfarefootprint.org/wp-content/uploads/2024/03/DALL·E-2024-06-10-11.17.37-FEATURE-IMAGE-999-666-678x452.png 678w, https://welfarefootprint.org/wp-content/uploads/2024/03/DALL·E-2024-06-10-11.17.37-FEATURE-IMAGE-999-666-524x349.png 524w, https://welfarefootprint.org/wp-content/uploads/2024/03/DALL·E-2024-06-10-11.17.37-FEATURE-IMAGE-999-666-420x280.png 420w, https://welfarefootprint.org/wp-content/uploads/2024/03/DALL·E-2024-06-10-11.17.37-FEATURE-IMAGE-999-666-444x296.png 444w, https://welfarefootprint.org/wp-content/uploads/2024/03/DALL·E-2024-06-10-11.17.37-FEATURE-IMAGE-999-666-916x611.png 916w, https://welfarefootprint.org/wp-content/uploads/2024/03/DALL·E-2024-06-10-11.17.37-FEATURE-IMAGE-999-666-600x400.png 600w"" sizes=""(max-width: 999px) 100vw, 999px"">	</div><!-- .post-thumbnail -->
+
+					</a>
+				<figcaption>
+				<header class=""entry-header"">
+					<h2 class=""entry-title"">","HTML",36
+"https://www.welfarefootprint.org/","<a href=""https://welfarefootprint.org/2024/03/12/positive-animal-welfare/"">Quantifying Positive Animal Welfare in Individuals and Populations</a></h2>
+				</header><!-- .entry-header -->
+								</figcaption>
+				</figure>
+			</div>
+		</article><!-- #post-## -->
+	</div>
+		<div class=""threecolumn clearfix"">
+		<article id=""post-9173"" class=""post-9173 post type-post status-publish format-standard has-post-thumbnail hentry category-method-refinements"">
+			<div class=""entry-content"">
+				<figure>
+				<a href=""https://welfarefootprint.org/2024/02/24/could-transparency-interntional-be-a-model-for-improved-animal-welfare/"">
+				
+	<div class=""post-thumbnail"">
+		<img width=""999"" height=""665"" src=""https://welfarefootprint.org/wp-content/uploads/2024/02/featured-1.png"" class=""attachment-post-thumbnail size-post-thumbnail wp-post-image"" alt="""" decoding=""async"" srcset=""https://welfarefootprint.org/wp-content/uploads/2024/02/featured-1.png 999w, https://welfarefootprint.org/wp-content/uploads/2024/02/featured-1-300x200.png 300w, https://welfarefootprint.org/wp-content/uploads/2024/02/featured-1-768x511.png 768w, https://welfarefootprint.org/wp-content/uploads/2024/02/featured-1-200x133.png 200w, https://welfarefootprint.org/wp-content/uploads/2024/02/featured-1-150x100.png 150w, https://welfarefootprint.org/wp-content/uploads/2024/02/featured-1-547x364.png 547w, https://welfarefootprint.org/wp-content/uploads/2024/02/featured-1-678x451.png 678w, https://welfarefootprint.org/wp-content/uploads/2024/02/featured-1-524x349.png 524w, https://welfarefootprint.org/wp-content/uploads/2024/02/featured-1-420x280.png 420w, https://welfarefootprint.org/wp-content/uploads/2024/02/featured-1-444x296.png 444w, https://welfarefootprint.org/wp-content/uploads/2024/02/featured-1-916x610.png 916w, https://welfarefootprint.org/wp-content/uploads/2024/02/featured-1-600x399.png 600w"" sizes=""(max-width: 999px) 100vw, 999px"">	</div><!-- .post-thumbnail -->
+
+					</a>
+				<figcaption>","HTML",37
+"https://www.welfarefootprint.org/","
+				<header class=""entry-header"">
+					<h2 class=""entry-title""><a href=""https://welfarefootprint.org/2024/02/24/could-transparency-interntional-be-a-model-for-improved-animal-welfare/"">Could Transparency International be a model for improved animal welfare?</a></h2>
+				</header><!-- .entry-header -->
+								</figcaption>
+				</figure>
+			</div>
+		</article><!-- #post-## -->
+	</div>
+		<div class=""threecolumn clearfix"">
+		<article id=""post-9158"" class=""post-9158 post type-post status-publish format-standard has-post-thumbnail hentry category-method-refinements"">
+			<div class=""entry-content"">
+				<figure>
+				<a href=""https://welfarefootprint.org/2024/02/20/shortagony-or-longache/"">
+				
+	<div class=""post-thumbnail"">
+		<img width=""999"" height=""666"" src=""https://welfarefootprint.org/wp-content/uploads/2024/02/featured2.png"" class=""attachment-post-thumbnail size-post-thumbnail wp-post-image"" alt="""" decoding=""async"" srcset=""https://welfarefootprint.org/wp-content/uploads/2024/02/featured2.png 999w, https://welfarefootprint.org/wp-content/uploads/2024/02/featured2-300x200.png 300w, https://welfarefootprint.org/wp-content/uploads/2024/02/featured2-768x512.png 768w, https://welfarefootprint.org/wp-content/uploads/2024/02/featured2-200x133.png 200w, https://welfarefootprint.org/wp-content/uploads/2024/02/featured2-150x100.png 150w, https://welfarefootprint.org/wp-content/uploads/2024/02/featured2-547x365.png 547w, https://welfarefootprint.org/wp-content/uploads/2024/02/featured2-678x452.png 678w, https://welfarefootprint.org/wp-content/uploads/2024/02/featured2-524x349.png 524w, https://welfarefootprint.org/wp-content/uploads/2024/02/featured2-420x280.png 420w, https://welfarefootprint.org/wp-content/uploads/2024/02/featured2-444x296.png 444w, https://welfarefootprint.org/wp-content/uploads/2024/02/featured2-916x611.png 916w, https://welfarefootprint.org/wp-content/uploads/2024/02/featured2-600x400.png 600w"" sizes=""(max-width: 999px) 100vw, 999px"">	</div>","HTML",38
+"https://www.welfarefootprint.org/","<!-- .post-thumbnail -->
+
+					</a>
+				<figcaption>
+				<header class=""entry-header"">
+					<h2 class=""entry-title""><a href=""https://welfarefootprint.org/2024/02/20/shortagony-or-longache/"">Short agony or long ache? Comparing intensity and duration of pain</a></h2>
+				</header><!-- .entry-header -->
+								</figcaption>
+				</figure>
+			</div>
+		</article><!-- #post-## -->
+	</div>
+		<div class=""threecolumn clearfix"">
+		<article id=""post-8568"" class=""post-8568 post type-post status-publish format-standard has-post-thumbnail hentry category-lectures"">
+			<div class=""entry-content"">
+				<figure>
+				<a href=""https://welfarefootprint.org/2023/08/01/announcing-our-new-virtual-office-hours-program/"">
+				
+	<div class=""post-thumbnail"">","HTML",39
+"https://www.welfarefootprint.org/","
+		<img width=""1000"" height=""666"" src=""https://welfarefootprint.org/wp-content/uploads/2023/07/videocallfeatured.png"" class=""attachment-post-thumbnail size-post-thumbnail wp-post-image"" alt="""" decoding=""async"" srcset=""https://welfarefootprint.org/wp-content/uploads/2023/07/videocallfeatured.png 1000w, https://welfarefootprint.org/wp-content/uploads/2023/07/videocallfeatured-300x200.png 300w, https://welfarefootprint.org/wp-content/uploads/2023/07/videocallfeatured-768x511.png 768w, https://welfarefootprint.org/wp-content/uploads/2023/07/videocallfeatured-200x133.png 200w, https://welfarefootprint.org/wp-content/uploads/2023/07/videocallfeatured-150x100.png 150w, https://welfarefootprint.org/wp-content/uploads/2023/07/videocallfeatured-547x364.png 547w, https://welfarefootprint.org/wp-content/uploads/2023/07/videocallfeatured-678x452.png 678w, https://welfarefootprint.org/wp-content/uploads/2023/07/videocallfeatured-524x349.png 524w, https://welfarefootprint.org/wp-content/uploads/2023/07/videocallfeatured-420x280.png 420w, https://welfarefootprint.org/wp-content/uploads/2023/07/videocallfeatured-444x296.png 444w, https://welfarefootprint.org/wp-content/uploads/2023/07/videocallfeatured-916x610.png 916w, https://welfarefootprint.org/wp-content/uploads/2023/07/videocallfeatured-600x400.png 600w"" sizes=""(max-width: 1000px) 100vw, 1000px"">	</div><!-- .post-thumbnail -->
+
+					</a>
+				<figcaption>
+				<header class=""entry-header"">
+					<h2 class=""entry-title""><a href=""https://welfarefootprint.org/2023/08/01/announcing-our-new-virtual-office-hours-program/"">Announcing Our New Virtual Office Hours Program</a></h2>
+				</header><!-- .entry-header -->
+								</figcaption>
+				</figure>
+			</div>
+		</article><!-- #post-## -->
+	</div>
+		<div class=""threecolumn clearfix"">","HTML",40
+"https://www.welfarefootprint.org/","
+		<article id=""post-8521"" class=""post-8521 post type-post status-publish format-standard has-post-thumbnail hentry category-welfare-science category-method-refinements tag-animal-pain tag-animal-welfare tag-iasp tag-pain-definition"">
+			<div class=""entry-content"">
+				<figure>
+				<a href=""https://welfarefootprint.org/2023/07/25/a-novel-proposal-for-the-definition-of-pain/"">
+				
+	<div class=""post-thumbnail"">
+		<img width=""999"" height=""667"" src=""https://welfarefootprint.org/wp-content/uploads/2023/07/featured-1.png"" class=""attachment-post-thumbnail size-post-thumbnail wp-post-image"" alt="""" decoding=""async"" srcset=""https://welfarefootprint.org/wp-content/uploads/2023/07/featured-1.png 999w, https://welfarefootprint.org/wp-content/uploads/2023/07/featured-1-300x200.png 300w, https://welfarefootprint.org/wp-content/uploads/2023/07/featured-1-768x513.png 768w, https://welfarefootprint.org/wp-content/uploads/2023/07/featured-1-200x134.png 200w, https://welfarefootprint.org/wp-content/uploads/2023/07/featured-1-150x100.png 150w, https://welfarefootprint.org/wp-content/uploads/2023/07/featured-1-547x365.png 547w, https://welfarefootprint.org/wp-content/uploads/2023/07/featured-1-678x453.png 678w, https://welfarefootprint.org/wp-content/uploads/2023/07/featured-1-524x350.png 524w, https://welfarefootprint.org/wp-content/uploads/2023/07/featured-1-420x280.png 420w, https://welfarefootprint.org/wp-content/uploads/2023/07/featured-1-444x296.png 444w, https://welfarefootprint.org/wp-content/uploads/2023/07/featured-1-916x612.png 916w, https://welfarefootprint.org/wp-content/uploads/2023/07/featured-1-600x401.png 600w"" sizes=""(max-width: 999px) 100vw, 999px"">	</div><!-- .post-thumbnail -->
+
+					</a>
+				<figcaption>
+				<header class=""entry-header"">
+					<h2 class=""entry-title""><a href=""https://welfarefootprint.org/2023/07/25/a-novel-proposal-for-the-definition-of-pain/"">A Novel Proposal for the Definition of Pain</a></h2>
+				</header><!-- .entry-header -->","HTML",41
+"https://www.welfarefootprint.org/","
+								</figcaption>
+				</figure>
+			</div>
+		</article><!-- #post-## -->
+	</div>
+		<div class=""threecolumn clearfix"">
+		<article id=""post-8473"" class=""post-8473 post type-post status-publish format-standard has-post-thumbnail hentry category-method-refinements"">
+			<div class=""entry-content"">
+				<figure>
+				<a href=""https://welfarefootprint.org/2023/07/18/introducing-pain-compare-a-tool-for-visualizing-welfare-loss-estimates-in-animals/"">
+				
+	<div class=""post-thumbnail"">
+		<img width=""1000"" height=""666"" src=""https://welfarefootprint.org/wp-content/uploads/2023/07/shutterstock_577995679.jpg"" class=""attachment-post-thumbnail size-post-thumbnail wp-post-image"" alt="""" decoding=""async"" srcset=""https://welfarefootprint.org/wp-content/uploads/2023/07/shutterstock_577995679.jpg 1000w, https://welfarefootprint.org/wp-content/uploads/2023/07/shutterstock_577995679-300x200.jpg 300w, https://welfarefootprint.org/wp-content/uploads/2023/07/shutterstock_577995679-768x511.jpg 768w, https://welfarefootprint.org/wp-content/uploads/2023/07/shutterstock_577995679-200x133.jpg 200w, https://welfarefootprint.org/wp-content/uploads/2023/07/shutterstock_577995679-150x100.jpg 150w, https://welfarefootprint.org/wp-content/uploads/2023/07/shutterstock_577995679-547x364.jpg 547w, https://welfarefootprint.org/wp-content/uploads/2023/07/shutterstock_577995679-678x452.jpg 678w, https://welfarefootprint.org/wp-content/uploads/2023/07/shutterstock_577995679-524x349.jpg 524w, https://welfarefootprint.org/wp-content/uploads/2023/07/shutterstock_577995679-420x280.jpg 420w, https://welfarefootprint.org/wp-content/uploads/2023/07/shutterstock_577995679-444x296.jpg 444w, https://welfarefootprint.org/wp-content/uploads/2023/07/shutterstock_577995679-916x610.jpg 916w, https://welfarefootprint.org/wp-content/uploads/2023/07/shutterstock_577995679-600x400.jpg 600w"" sizes=""(max-width: 1000px) 100vw, 1000px"">	</div><!-- .post-thumbnail -->
+
+					</a>
+				<figcaption>
+				<header class=""entry-header"">","HTML",42
+"https://www.welfarefootprint.org/","
+					<h2 class=""entry-title""><a href=""https://welfarefootprint.org/2023/07/18/introducing-pain-compare-a-tool-for-visualizing-welfare-loss-estimates-in-animals/"">Introducing Pain-Compare: A Tool for Visualizing Welfare Loss Estimates in Animals</a></h2>
+				</header><!-- .entry-header -->
+								</figcaption>
+				</figure>
+			</div>
+		</article><!-- #post-## -->
+	</div>
+		</div>
+		</div><div>			<div class=""textwidget""><p><img decoding=""async"" class=""alignnone size-full wp-image-3212"" src=""https://welfarefootprint.org/wp-content/uploads/2021/04/white.jpg"" alt="""" width=""100"" height=""13""></p>
+</div>
+		</div>		</div><!-- .widget-area -->
+			</div><!-- .child-pages -->
+	</div><!-- .block-four -->
+		</div><!-- #site -->
+	<footer id=""colophon"" class=""site-footer"" role=""contentinfo"">
+		<div class=""footer"">
+			<div class=""site-info"">
+				<div class=""hfeed site"">
+					<div class=""content site-content"">
+																<div class=""clear widget-area optional-widget-area footer-widget-area"" role=""complementary"">
+			<div class=""one-widget"">
+				<aside id=""block-3"" class=""widget widget_block"">
+<div class=""wp-block-columns is-layout-flex wp-container-core-columns-is-layout-1 wp-block-columns-is-layout-flex"">
+<div class=""wp-block-column is-layout-flow wp-block-column-is-layout-flow"" style=""flex-basis:100%""><p><script>(function() {
+	window.mc4wp = window.mc4wp || {
+		listeners: [],
+		forms: {
+			on: function(evt, cb) {
+				window.mc4wp.listeners.push(
+					{
+						event   : evt,
+						callback: cb
+					}
+				);
+			}
+		}
+	}
+})();
+</script><!-- Mailchimp for WordPress v4.9.9 - https://wordpress.org/plugins/mailchimp-for-wp/ --></p><form id=""mc4wp-form-1"" class=""mc4wp-form mc4wp-form-8123 mc4wp-form-theme mc4wp-form-theme-blue"" method=""post"" data-id=""8123"" data-name=""Subscribe to our newsletter""><div class=""mc4wp-form-fields""><p>
+	<label> 
+		<input type=""email"" name=""EMAIL"" placeholder=""Insert your email to subscribe to our news"" required="""">
+</label>","HTML",43
+"https://www.welfarefootprint.org/","
+<input type=""submit"" value=""Subscribe"">
+</p>
+
+
+</div><label style=""display: none !important;"">Leave this field empty if you're human: <input type=""text"" name=""_mc4wp_honeypot"" value="""" tabindex=""-1"" autocomplete=""off""></label><input type=""hidden"" name=""_mc4wp_timestamp"" value=""1726695107""><input type=""hidden"" name=""_mc4wp_form_id"" value=""8123""><input type=""hidden"" name=""_mc4wp_form_element_id"" value=""mc4wp-form-1""><div class=""mc4wp-response""></div></form><!-- / Mailchimp for WordPress Plugin --><p></p>
+
+
+<div class=""widget_text widget widget_custom_html""><div class=""textwidget custom-html-widget""><p>
+<span style=""font-size:80%; color:#6A87A6"">
+Contact: info@welfarefootprint.org 
+
+</span><br>
+
+<span style=""font-size:80%; color:#6A87A6"">
+All data, reports, and charts produced by the Welfare Footprint Project are free to use under the Creative Commons BY license. You have the permission to use, distribute, and reproduce these in any medium, provided the source and authors are credited.
+	<br> <a href=""https://welfarefootprint.org/feedback-form/""><u>Feedback form</u></a>
+
+</span></p></div></div></div>
+</div>
+</aside>			</div>
+		</div>
+														<div class=""copyright"">
+												
+													<a class=""scroll-to-top"" href=""#""></a>
+												</div>
+					</div><!-- .footerwidgets -->
+				</div><!-- .site-info -->
+			</div><!-- .page -->
+		</div><!-- .footer -->
+			</footer><!-- .site-footer -->
+
+<div class=""a2a_kit a2a_kit_size_24 a2a_floating_style a2a_vertical_style"" style=""left:0px;top:100px;background-color:transparent""><a class=""a2a_button_facebook"" href=""https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fwelfarefootprint.org%2F&amp;linkname=Welfare%20Footprint%20Project"" title=""Facebook"" rel=""nofollow noopener"" target=""_blank""></a>","HTML",44
+"https://www.welfarefootprint.org/","<a class=""a2a_button_twitter"" href=""https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Fwelfarefootprint.org%2F&amp;linkname=Welfare%20Footprint%20Project"" title=""Twitter"" rel=""nofollow noopener"" target=""_blank""></a><a class=""a2a_button_email"" href=""https://www.addtoany.com/add_to/email?linkurl=https%3A%2F%2Fwelfarefootprint.org%2F&amp;linkname=Welfare%20Footprint%20Project"" title=""Email"" rel=""nofollow noopener"" target=""_blank""></a><a class=""a2a_button_linkedin"" href=""https://www.addtoany.com/add_to/linkedin?linkurl=https%3A%2F%2Fwelfarefootprint.org%2F&amp;linkname=Welfare%20Footprint%20Project"" title=""LinkedIn"" rel=""nofollow noopener"" target=""_blank""></a><a class=""a2a_button_whatsapp"" href=""https://www.addtoany.com/add_to/whatsapp?linkurl=https%3A%2F%2Fwelfarefootprint.org%2F&amp;linkname=Welfare%20Footprint%20Project"" title=""WhatsApp"" rel=""nofollow noopener"" target=""_blank""></a><a class=""a2a_dd addtoany_share_save addtoany_share"" href=""https://www.addtoany.com/share""></a></div>		<script>
+		( function ( body ) {
+			'use strict';
+			body.className = body.className.replace( /\\btribe-no-js\\b/, 'tribe-js' );
+		} )( document.body );
+		</script>
+		<script>(function() {function maybePrefixUrlField () {
+  const value = this.value.trim()
+  if (value !== '' && value.indexOf('http') !== 0) {
+    this.value = 'http://' + value
+  }
+}
+
+const urlFields = document.querySelectorAll('.mc4wp-form input[type=""url""]')
+for (let j = 0; j < urlFields.length; j++) {
+  urlFields[j].addEventListener('blur', maybePrefixUrlField)
+}
+})();</script><script>","HTML",45
+"https://www.welfarefootprint.org/"," /* <![CDATA[ */var tribe_l10n_datatables = {""aria"":{""sort_ascending"":"": activate to sort column ascending"",""sort_descending"":"": activate to sort column descending""},""length_menu"":""Show _MENU_ entries"",""empty_table"":""No data available in table"",""info"":""Showing _START_ to _END_ of _TOTAL_ entries"",""info_empty"":""Showing 0 to 0 of 0 entries"",""info_filtered"":""(filtered from _MAX_ total entries)"",""zero_records"":""No matching records found"",""search"":""Search:"",""all_selected_text"":""All items on this page were selected. "",""select_all_link"":""Select all pages"",""clear_selection"":""Clear Selection."",""pagination"":{""all"":""All"",""next"":""Next"",""previous"":""Previous""},""select"":{""rows"":{""0"":"""",""_"":"": Selected %d rows"",""1"":"": Selected 1 row""}},""datepicker"":{""dayNames"":[""Sunday"",""Monday"",""Tuesday"",""Wednesday"",""Thursday"",""Friday"",""Saturday""],""dayNamesShort"":[""Sun"",""Mon"",""Tue"",""Wed"",""Thu"",""Fri"",""Sat""],""dayNamesMin"":[""S"",""M"",""T"",""W"",""T"",""F"",""S""],""monthNames"":[""January"",""February"",""March"",""April"",""May"",""June"",""July"",""August"",""September"",""October"",""November"",""December""],""monthNamesShort"":[""January"",""February"",""March"",""April"",""May"",""June"",""July"",""August"",""September"",""October"",""November"",""December""],""monthNamesMin"":[""Jan"",""Feb"",""Mar"",""Apr"",""May"",""Jun"",""Jul"",""Aug"",""Sep"",""Oct"",""Nov"",""Dec""],""nextText"":""Next"",""prevText"":""Prev"",""currentText"":""Today"",""closeText"":""Done"",""today"":""Today"",""clear"":""Clear""}};/* ]]> */ </script>			<script type=""text/javascript"">
+				const lazyloadRunObserver = () => {
+					const lazyloadBackgrounds = document.querySelectorAll( `.e-con.e-parent:not(.e-lazyloaded)` );
+					const lazyloadBackgroundObserver = new IntersectionObserver( ( entries ) => {
+						entries.forEach( ( entry ) =>","HTML",46
+"https://www.welfarefootprint.org/"," {
+							if ( entry.isIntersecting ) {
+								let lazyloadBackground = entry.target;
+								if( lazyloadBackground ) {
+									lazyloadBackground.classList.add( 'e-lazyloaded' );
+								}
+								lazyloadBackgroundObserver.unobserve( entry.target );
+							}
+						});
+					}, { rootMargin: '200px 0px 200px 0px' } );
+					lazyloadBackgrounds.forEach( ( lazyloadBackground ) => {
+						lazyloadBackgroundObserver.observe( lazyloadBackground );
+					} );
+				};
+				const events = [
+					'DOMContentLoaded',
+					'elementor/lazyload/observe',
+				];
+				events.forEach( ( event ) => {
+					document.addEventListener( event, lazyloadRunObserver );
+				} );
+			</script>
+				<script type=""text/javascript"">
+		(function () {
+			var c = document.body.className;
+			c = c.replace(/woocommerce-no-js/, 'woocommerce-js');
+			document.body.className = c;
+		})();
+	</script>
+	<style id=""core-block-supports-inline-css"" type=""text/css"">
+.wp-container-core-buttons-is-layout-1{justify-content:center;}.wp-container-core-buttons-is-layout-2{justify-content:center;}.wp-container-core-buttons-is-layout-3{justify-content:center;}.wp-container-core-columns-is-layout-1{flex-wrap:nowrap;}
+</style>
+<script type=""text/javascript"" src=""https://welfarefootprint.org/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=5.8.3"" id=""swv-js""></script>
+<script type=""text/javascript"" id=""contact-form-7-js-extra"">
+/* <![CDATA[ */
+var wpcf7 = {""api"":{""root"":""https:\\/\\/welfarefootprint.org\\/wp-json\\/"",""namespace"":""contact-form-7\\/v1""}};
+/* ]]> */
+</script>
+<script type=""text/javascript"" src=""https://welfarefootprint.org/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.8.3"" id=""contact-form-7-js""></script>
+<script type=""text/javascript"" id=""helpie-faq-bundle-js-extra"">","HTML",47
+"https://www.welfarefootprint.org/","
+/* <![CDATA[ */
+var helpie_faq_object = {""nonce"":""1005b166d3"",""ajax_url"":""https:\\/\\/welfarefootprint.org\\/wp-admin\\/admin-ajax.php"",""current_post_id"":""8264"",""current_user"":{""data"":{},""ID"":0,""caps"":[],""cap_key"":null,""roles"":[],""allcaps"":[],""filter"":null},""plan"":""free"",""url"":""https:\\/\\/welfarefootprint.org\\/wp-content\\/plugins\\/helpie-faq\\/"",""enabled_submission"":""1"",""enable_search_highlight"":""""};
+var faqStrings = {""hide"":""Hide"",""addFAQ"":""Add FAQ"",""noFaqsFound"":""No FAQ found""};
+/* ]]> */
+</script>
+<script type=""text/javascript"" src=""https://welfarefootprint.org/wp-content/plugins/helpie-faq/assets/bundles/main.app.js?ver=1.13"" id=""helpie-faq-bundle-js""></script>
+<script type=""text/javascript"" id=""toc-front-js-extra"">
+/* <![CDATA[ */
+var tocplus = {""visibility_show"":""show"",""visibility_hide"":""hide"",""width"":""Auto""};
+/* ]]> */
+</script>
+<script type=""text/javascript"" src=""https://welfarefootprint.org/wp-content/plugins/table-of-contents-plus/front.min.js?ver=2309"" id=""toc-front-js""></script>
+<script type=""text/javascript"" src=""https://welfarefootprint.org/wp-content/themes/maishawp/js/skip-link-focus-fix.js?ver=20141010"" id=""maisha-skip-link-focus-fix-js""></script>
+<script type=""text/javascript"" src=""https://welfarefootprint.org/wp-content/themes/maishawp/js/navigation.js?ver=20120206"" id=""maisha-navigation-js""></script>
+<script type=""text/javascript"" src=""https://welfarefootprint.org/wp-content/themes/maishawp/js/search.js?ver=1.0"" id=""maisha-search-js""></script>
+<script type=""text/javascript"" id=""maisha-script-js-extra"">
+/* <![CDATA[ */
+var screenReaderText = {""expand"":""<span class=\\""screen-reader-text\\"">expand child menu<\\/span>"",""collapse"":""<span class=\\""screen-reader-text\\"">collapse child menu<\\/span>""};
+/* ]]> */
+</script>
+<script type=""text/javascript"" src=""https://welfarefootprint.org/wp-content/themes/maishawp/js/functions.js?ver=1.0"" id=""maisha-script-js""></script>","HTML",48
+"https://www.welfarefootprint.org/","
+<script type=""text/javascript"" defer="""" src=""https://welfarefootprint.org/wp-content/plugins/mailchimp-for-wp/assets/js/forms.js?ver=4.9.9"" id=""mc4wp-forms-api-js""></script>
+
+
+
+</body></html>","HTML",49

@@ -41,3 +41,7 @@ To facilitate the creation of similar datasets from any website, we provide a sc
 4. **Run**: Execute the cells in the notebook to scrape the content and generate the CSV file.
 
 By using this script, you can expand the dataset with additional content from other relevant websites, maintaining the consistency and structure needed for AI & ML applications.
+
+### Download Datasets
+
+[Download CSV files from Google Drive here](https://drive.google.com/drive/folders/1uW3fpVzYftOkhiF4Npm4mbFZun02-7Eb?usp=drive_link_

@@ -13,10 +13,10 @@ The dataset is stored as a CSV file with the following columns:
 
 ### Example Rows
 
-| thread_title                                     | author         | delta | text                                              |
-|-------------------------------------------------|---------------|-------|--------------------------------------------------|
-| "Why I think veganism is unnecessary"           | proVeganUser  | 1     | "Actually, studies show that plant-based diets..." |
-| "Animals don’t feel pain the way humans do"     | anotherUser   | 0     | "I disagree, but I understand where you're coming from..." |
+| thread_title                                | author         | delta | text                                               |
+|--------------------------------------------|---------------|-------|---------------------------------------------------|
+| Why I think veganism is unnecessary        | proVeganUser  | 1     | "Actually, studies show that plant-based diets..." |
+| Animals don’t feel pain the way humans do  | anotherUser   | 0     | "I disagree, but I understand where you're coming from..." |
 
 ## Goals of the Dataset
 
